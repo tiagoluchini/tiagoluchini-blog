@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 1043
+title: Espelho
+wordpress_url: http://www.tiagoluchini.eu/?p=1043
+layout: post
+---
+Oswaldo Montenegro canta em "A Lista":
+<blockquote>"Onde você ainda se reconhece?
+Na foto passada ou no espelho de agora?"</blockquote>
+Via fotos e vídeos de alguns anos atrás e sei responder sem hesitar: no espelho de agora.
+
+Posso também respirar aliviado. Não terei que recitar como Cecília Meireles:
+<blockquote>"Eu não tinha este rosto de hoje,
+assim calmo, assim triste, assim magro,
+nem estes olhos tão vazios,
+nem o lábio amargo.
+Eu não tinha estas mãos sem força,
+tão paradas e frias e mortas;
+eu não tinha este coração
+que nem se mostra.
+Eu não dei por esta mudança,
+tão simples, tão certa, tão fácil:
+Em que espelho ficou perdida a minha face?"</blockquote>

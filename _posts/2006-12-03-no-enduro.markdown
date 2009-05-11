@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 58
+title: No Enduro
+wordpress_url: http://www.tiagoluchini.eu/2006/12/03/no-enduro/
+layout: post
+---
+<a target="_blank" title="Tiago - Seletiva Enduro 2006" href="http://www.tiagoluchini.eu/wp-content/uploads/2006/12/kart_tiago.jpg"><img align="left" title="Tiago - Seletiva Enduro 2006" id="image57" alt="Tiago - Seletiva Enduro 2006" src="http://www.tiagoluchini.eu/wp-content/uploads/2006/12/kart_tiago.thumbnail.jpg" /></a>A foto ao lado foi tirada no último evento do ano do campeonato da <a target="_blank" href="http://www.asseka.com.br">Asseka</a>. O evento durou das 9:00AM até às 15:00 e continha praticamente 3 horas de corrida incluindo um Enduro de 2 horas de duração onde 2 pilotos se alternavam no volante de 30 em 30 minutos.
+
+A minha performance foi muito boa considerando a duração do evento, o sol queimando e a resistência necessária. Pilotei a segunda e a quarta troca do enduro e consegui uma performance muito boa principalmente na primeira tomada tendo pego o carro em 8o. lugar e devolvendo em 3o. além de inúmeros retardatários ultrapassados no caminho.
+
+Na foto eu estou na seletiva - terminada em quarto lugar - defendendo a posição logo após a saída da reta oposta.

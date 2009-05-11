@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 1029
+title: Pausa
+wordpress_url: http://www.tiagoluchini.eu/?p=1029
+layout: post
+---
+Caríssimos leitores desse estimado blog-de-meia-tigela, o signatário desta coisa estará se distanciando de qualquer forma de teclado, mouse ou dispositivos congêneres nas próximas semanas. Com um pouco de sorte, o mais próximo de um equipamento eletrônico que eu deva chegar será no caso de algum vídeo-game.
+
+A volta está planejada para a semana 35 quando devo trazer novidades.

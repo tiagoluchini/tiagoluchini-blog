@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 460
+title: De volta
+wordpress_url: http://www.tiagoluchini.eu/2007/09/11/de-volta/
+layout: post
+---
+Depois de reconsiderar a existência do Blog por alguns dias resolvi continuar mantendo-o.
+
+Talvez eu mude um pouco o tom, a língua e a natureza dos artigos. Com o tempo vou explicando as motivacões por detrás disso.
+
+Para aproveitar a pausa, atualizei também - e radicalmente diga-se - o layout do site. A maioria das coisas continua no mesmo lugar mas por favor me avise caso algo tenha deixado de funcionar. Decidi por um visual mais vivo e - eu sei - até florido demais (vou resolver isso no seu devido tempo).
+
+Por enquanto, espero que o blog atinja os meus objetivos.

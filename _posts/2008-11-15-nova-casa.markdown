@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 1105
+title: Nova casa
+wordpress_url: http://tiago.deepkeeper.com/?p=1105
+layout: post
+---
+Estamos de casa nova! Não, não mudei de novo mas este site está em novo endereço. Ele saiu de um datacenter genérico qualquer nos EUA para outro datacenter genérico qualquer nos EUA.
+
+O que isso muda para você? Absolutamente nada. O que isso muda para mim? Muito pouco.
+
+Mesmo assim deu um trabalho enorme fazer a migração. Sempre esqueço do volume de asneiras que escrevo por aqui. Na data da migração eram mais de 700 artigos, 1400 comentários, 500 imagens... tudo isso em quase 90MB entre banco de dados e arquivos.
+
+Aos dois leitores desse blog: se notarem algo fora de lugar, por favor me avisem.

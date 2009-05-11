@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 825
+title: Insight
+wordpress_url: http://www.tiagoluchini.eu/2008/02/18/insight-2/
+layout: post
+---
+
+<blockquote>"Only through sickness, loneliness, and the pressure of overwhelming sorrow, do some men rightly learn to live, and discover that unseen and most real world, where the life of the spirit unfolds to God as a flower in spring."</blockquote>

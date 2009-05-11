@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 1010
+title: 10 de Julho
+wordpress_url: http://www.tiagoluchini.eu/?p=1010
+layout: post
+---
+Para quem não sabe, 10 de Julho é um dia importantíssimo no calendário mundial! 10 de Julho é quando comemora-se AO MESMO TEMPO a <a href="http://en.wikipedia.org/wiki/Bahamas" target="_blank">independência das Ilhas Bahamas</a> e o <a href="http://en.wikipedia.org/wiki/Silence_Day" target="_blank">dia do silêncio</a> (celebrados pelos seguidores de <a href="http://en.wikipedia.org/wiki/Meher_Baba" target="_blank">Meher Baba</a>).
+
+Vamos celebrar!

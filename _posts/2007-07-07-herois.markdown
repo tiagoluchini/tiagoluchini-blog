@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 277
+title: "Her\xC3\xB3is"
+wordpress_url: http://www.tiagoluchini.eu/2007/07/07/herois/
+layout: post
+---
+<a href="http://www.tiagoluchini.eu/wp-content/uploads/2007/07/senna2.jpg" target="_blank" title="Ayrton Senna"><img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/07/senna2.thumbnail.jpg" title="Ayrton Senna" alt="Ayrton Senna" align="left" hspace="10" vspace="5" /></a>Frase atribuída a Ronaldo Helal, professor da Faculdade de Comunicação Social da UERJ:
+<blockquote>"O esporte como fenômeno massivo, não se sustenta sem ídolos. Eles atraem as pessoas, estimulam o gosto e chamam a atenção até para modalidades menos populares. Uma diferença entre ídolos do esporte e de outros universos, como a música, os torna ainda mais fundamentais como catalisadores de atenções. Ídolos esportivos são heróis, devido ao aspecto de luta que permeia seu universo. Ambos, ídolos do esporte e da música, tornam-se celebridades, porém só os do esporte são inexoravelmente considerados heróis."</blockquote>
+Alguém duvida?

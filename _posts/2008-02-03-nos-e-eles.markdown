@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 789
+title: "\"N\xC3\xB3s\" e \"Eles\""
+wordpress_url: http://www.tiagoluchini.eu/2008/02/03/nos-e-eles/
+layout: post
+---
+Recentemente o blog técnico do Paul Murphy me relembrava sobre o conhecido método de defender argumentos ao criar um <a href="http://blogs.zdnet.com/Murphy/?p=1054" target="_blank">"eu" versus "eles"</a>. Isac Asimov explica muito bem este conceito ao narrar uma história futurista onde a Guerra Fria do Modernismo continua ativa. Ele então explica como os Americanos passaram gradualmente a chamar os Russos de "Eles" (até com letra maiúscula) enquanto que os Russos faziam o inverso.
+
+Em termos de argumentação essa metodologia é geralmente muito boa: é só laçar o recipiente da mensagem em algum ponto comum de contato, estabelecer o "Nós" e atacar massivamente o "Eles". Esse tipo de brincadeira é o que impera na maior parte do material apologético que se encontra por aí - deploravelmente inclusive.
+
+<img src="http://www.tiagoluchini.eu/wp-content/uploads/2008/02/turma.jpg" alt="turma.jpg" align="left" hspace="10" vspace="5" />O que me chama a atenção entretanto é a força do "Nós"; é a necessidade humana de fazer parte de um grupo, de participar e expandir pontos comuns com o outro e, em última instância, de aceitação dentro de um grupo maior.
+
+Quando passeio pelas fotos nessas redes sociais da vida (como o Orkut por exemplo) vejo muitos que expõe fotos cheias de pessoas. Alguns até nomeiam cada indivíduo da foto ou então batizam o grupo com termos como "a nossa galera". Foto após foto, os grupos vão se tornando claros.
+
+Émile Durkheim lá nos primórdios da sociologia já estudava a importância da <a href="http://www.tiagoluchini.eu/2007/12/23/solidariedade-x-solidariedade/">coesão dos grupos sociais</a>.
+
+As minhas teorias mais atuais não são muito otimistas entretanto. Acredito que os mecanismos que mantém os membros de grupos sociais coesos são buscas egoístas e, em última análise, basicamente interesseiras.
+
+Nomeamos conceitos como "amizade" ou "amor" mas eles não existem em sua forma pura. O que existe é interesse e oportunidade numa busca incessante para encontrar e saciar suas demandas pessoais. Enquanto as pessoas tiverem interesses mútuos e pertinentes elas se relacionarão. A partir do momento que o interesse reduz, o relacionamento desaperece na mesma medida.
+
+É simples, curto e grosso - mas, sobretudo, triste.

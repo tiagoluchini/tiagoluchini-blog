@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 688
+title: Desgosto
+wordpress_url: http://www.tiagoluchini.eu/2007/12/14/desgosto/
+layout: post
+---
+Depois de tanto blá-blá-blá, a CPMF caiu.
+
+Agora discutem aumentar outros tributos ou criar algum outro tributo para a "saúde". Reduzir os gastos do governo? Não! Parar com programas assistencialistas? Não!
+
+Sabe que dá desgosto até de gastar 3 linhas do blog com isso? <a href="http://ericgallardo.wordpress.com/2007/12/13/sugestoes-para-repor-a-cpmf/" target="_blank">Bom-humor é sugerir novos e incomuns tributos</a>.

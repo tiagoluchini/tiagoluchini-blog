@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 1277
+title: A crise
+wordpress_url: http://tiagoluchini.eu/?p=1277
+layout: post
+---
+Eu estava projetando um jogo de tabuleiro que incluísse o chamado "Agency Cost". Na prática isso quer dizer que os dirigentes das empresas tem seus próprios objetivos pessoais que, muitas vezes, diferem dos da empresa e isso causa custos.
+
+Meio que abandonei a ideia porque provavelmente essa pequena possibilidade poderia quebrar toda a economia. E não é que re-esbarrei numa tirinha de Calvin e Haroldo que trata exatamente disso. 
+
+Saudade da minha coleção do Calvin e Haroldo que deixei no Brasil...
+
+<img src="http://tiagoluchini.eu/wp-content/uploads/2009/02/calvin-on-supply-and-demand.jpg" alt="" title="calvin-on-supply-and-demand" class="alignnone size-full wp-image-1278" />

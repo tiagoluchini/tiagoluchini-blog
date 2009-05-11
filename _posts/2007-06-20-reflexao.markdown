@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 226
+title: "Reflex\xC3\xA3o"
+wordpress_url: http://www.tiagoluchini.eu/2007/06/20/reflexao/
+layout: post
+---
+<img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/06/blackbox.jpg" title="Blackbox" alt="Blackbox" align="left" border="0" />Alguém me falou que tenho dado um tom meio sombrio e depressivo para o Blog recentemente. Parei para reler parte do material e, realmente, dependendo do enfoque de quem lê, até os artigos que eram para ser encarados como brincadeiras podem ser entendidos com certo pessimismo.
+
+Não sou uma pessoa rancorosa nem mau-humorada. Muito pelo contrário! Encaro a vida e os problemas numa boa. Engracado o material escrito acabar com um ar diferente disso. Talvez porque ele seja escrito com as pessoas que me conhecem em mente.
+
+Mas me parece que, mais certamente, a tendência ocorra porque uso o site regularmente para questionar certas coisas.
+
+Isso sim faz parte integrante do que sou! Parto do pressuposto que tudo pode ser questionado, tudo pode ser melhorado e que tudo pode ser aprendido. Não gosto do conceito "caixa-preta", onde você olha para um sistema e simplesmente aceita que ele funciona porque funciona e pronto: é uma <a href="http://en.wikipedia.org/wiki/Black-box" target="_blank">"caixa-preta"</a>.
+
+Descobrir o mundo para mim é abrir cada caixinha-preta que vejo e normalmente esse processo me leva a outras caixas, essas verdes, amarelas, vermelhas... que também precisam ser abertas e escondem outros e outros mundos.
+
+Enquanto eu não chegar em nenhuma <a href="http://pt.wikipedia.org/wiki/Pandora" target="_blank">caixa-de-pandora</a> vou continuar questionando o mundo. Até lá, me satisfaco em saber que as caixas-pretas dos aviões são normalmente vermelhas ou amarelas. O que tem lá dentro? Eu sei: já me questionei sobre isso...

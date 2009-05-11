@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 766
+title: Extremos
+wordpress_url: http://www.tiagoluchini.eu/2008/01/19/extremos/
+layout: post
+---
+Quando você sabe que não está pronto para tomar uma decisão?
+
+Simples: verifique quais são suas dúvidas. Por exemplo: se está dividido entre casar ou comprar uma bicicleta, é uma péssima hora para tomar uma decisão.
+
+Por que lembrei disso? Comecei a pensar em trocar de carro. Fiquei entre duas opções na mesma [baixa] faixa de preço:
+
+<img src="http://www.tiagoluchini.eu/wp-content/uploads/2008/01/volvo.jpg" alt="volvo.jpg" />
+
+<img src="http://www.tiagoluchini.eu/wp-content/uploads/2008/01/smart.jpg" alt="smart.jpg" />
+
+Quando a sua dúvida está entre um carro enorme com um motor gigante à diesel e que polui até Marte e um carro minúsculo com motor de bicicleta é hora de não tomar decisão nenhuma e continuar com o cacareco.

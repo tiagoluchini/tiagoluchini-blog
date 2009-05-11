@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1336
+title: "A P\xC3\xA1scoa..."
+wordpress_url: http://tiagoluchini.eu/?p=1336
+layout: post
+---
+... está chegando e eu não resisti de compartilhar:
+
+<img class="alignnone size-full wp-image-1337" title="wtf_pics-gas-mask-bunny" src="http://tiagoluchini.eu/wp-content/uploads/2009/04/wtf_pics-gas-mask-bunny.jpg" alt="" width="500" height="449" />
+
+Via: <a href="http://pictureisunrelated.com/2009/03/31/would-you-like-a-game-of-chess/" target="_blank">Picture is Unrelated</a>

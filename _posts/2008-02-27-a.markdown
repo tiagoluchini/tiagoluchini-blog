@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 845
+title: "\xC3\x83?"
+wordpress_url: http://www.tiagoluchini.eu/2008/02/27/a/
+layout: post
+---
+Estes dias me peguei respondendo um SMS com a seguinte e enigmática frase:
+<blockquote>"Koska foi copy &amp; paste do menu :)"</blockquote>
+Só depois de enviado que fui notar a confusão pluri-cultural dessa pérola.
+
+Primeiro porque utilizei a estrutura básica do Português (incluindo verbo, artigo e possessivo). "Koska" é "porque" em Finlandês. Usei pois era mais curto e porque a pergunta tinha sido "Miksi" ("Por que" em Finlandês). "Copy &amp; Paste" é Inglês e uma expressão altamente orientada para usuários de computador e "menu" é uma palavra Francesa.
+
+Para terminar ainda coloquei uma carinha sorridente ":)" típica das comunicações escritas modernas.
+
+Como já diria o velhinho estagnado no tempo: "onde esse mundo vai parar?"

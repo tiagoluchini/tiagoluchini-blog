@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 1033
+title: "\"Heaven\""
+wordpress_url: http://www.tiagoluchini.eu/?p=1033
+layout: post
+---
+Só porque eu ri muito, compartilho com vocês:
+
+<img src="http://www.tiagoluchini.eu/wp-content/uploads/2008/08/00000176.gif" alt="" title="00000176"  class="alignnone size-full wp-image-1032" />

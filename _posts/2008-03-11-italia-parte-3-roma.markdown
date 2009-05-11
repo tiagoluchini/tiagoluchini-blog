@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 850
+title: "It\xC3\xA1lia - parte 3 - Roma"
+wordpress_url: http://www.tiagoluchini.eu/2008/03/11/italia-parte-3-roma/
+layout: post
+---
+Este artigo é continuação de <a href="http://www.tiagoluchini.eu/2008/03/11/italia-parte-1-pisa/">Itália - parte 1 - Pisa</a> e <a href="http://www.tiagoluchini.eu/2008/03/11/italia-parte-2-veneza/">Itália - parte 2 - Veneza</a>.
+
+Roma é o paraíso para qualquer maníaco por história. O lugar é praticamente um museu à céu aberto contendo o <a href="http://picasaweb.google.com/luchini/Mar08RomaDeNoite/photo#5176217857035338034" target="_blank">famoso Coliseu</a>, a <a href="http://picasaweb.google.com/luchini/Mar08RomaDeNoite/photo#5176217680941678834" target="_blank">Fonte de Trevi</a>, o <a href="http://picasaweb.google.com/luchini/Mar08RomaDeNoite/photo#5176218101848473986" target="_blank">Arco de Tito</a>, o <a href="http://picasaweb.google.com/luchini/Mar08RomaDeDia/photo#5176218849172783666" target="_blank">Foro Romano</a>, o <a href="http://picasaweb.google.com/luchini/Mar08RomaDeDia/photo#5176221902894532594" target="_blank">Panteon</a> e até o singelo mas altamente tocante <a href="http://picasaweb.google.com/luchini/Mar08RomaDeDia/photo#5176220683123819970" target="_blank">Circus Massimo</a>. Sem contar o Vaticano com sua <a href="http://picasaweb.google.com/luchini/Mar08Vaticano/photo#5176219695281341298" target="_blank">Basílica de São Pedro</a> e a famosa <a href="http://picasaweb.google.com/luchini/Mar08Vaticano/photo#5176220790498002434" target="_blank">Capela Sistina</a> de Michelangelo.
+
+Para fãs de igrejas e artes então o lugar continua sendo o paraíso. Confesso que esta não é muito a minha praia mas gostei muito da escondidinha Igreja de Jesus e seus panéis ilusionistas e, mesmo não entendendo nada de arte, pelo menos fui fotografar a obra-prima de Michelangelo, sua <a href="http://picasaweb.google.com/luchini/Mar08Vaticano/photo#5176219970159248402" target="_blank">pietá</a> (escultura de Jesus morto nos braços de Maria).
+
+É difícil até comentar sobre Roma de tanta coisa que tem lá. Vou focar nas coisas que gostei e que valem realmente comentar. Assuma que as outras foram muito, mas muito interessantes mas que, infelizmente, ficaram "nas sombras" dessas abaixo:
+
+<strong>Circus Massimo</strong> - onde ocorriam as famosas e lendárias corridas de bigas do Império Romano. O lugar hoje é só uma praça meia-boca mas mantém pelo menos o formato da arena que um dia comportou até 300.000 pessoas por corrida. A sensação de sentar no gramado e olhar para a enorme pista a sua frente imaginando as corridas que aconteciam ali e o frenesi que elas geravam é de arrepiar. Talvez sejam o meu lado automobilístico falando mais forte mas tenho certeza que os espetáculos ocorridos ali não deixariam nada a desejar se comparados com as atuais corridas de carros.
+
+<strong>Coliseu</strong> - o famoso palco dos gladiadores e provável martírio de cristãos. O que mais me atraiu é o tamanho e a maravilha de engenharia do lugar. Só de pensar que aquilo foi construído em poucos anos há mais de 2000 anos atrás é fantástico. Todo o lugar é tão bem arquitetado que é o modelo para qualquer casa de shows atuais. Simplesmente magnífico. Os trabalhos de preservação que começaram em 2000 deram um bom tapa no lugar.
+
+<strong>Fonte de Trevi</strong> - uma linda fonte que ainda usa os canais primitivos que traziam água à cidade. Menor porém mais simpática do que eu esperava. Fica numa piazza de acesso ruim e apertada com vendedores ambulantes e muitos turistas. Seria um ótimo lugar para sentar e relaxar numa tarde de primavera não fosse a multidão. A fonte em si fica linda na iluminação noturna e tem uma mistura de elementos artísticos bem elaborados com outros mais rudimentares que, mesmo na minha ignorância artística, pareciam muito bonitos.
+
+<strong>Igreja de Jesus</strong> - uma pequena e escondida igreja Jesuíta decorada por ilusionistas. De tão paralela que esta igreja ficava no roteiro, praticamente esquecemos dela até um dia chuvoso convidar a buscar abrigo nela. Diferente das igrejas católicas tradicionais que são dedicadas a Santos, a Igreja de Jesus é dedicada exclusivamente à Jesus e já gostei disso. Toda a decoração interna da igreja é muito legal mas o painel central do teto é fantástico! Uma mistura de pinturas, esculturas e jogos de luz com as janelas dá impressões bem interessantes.
+
+Para mais fotos, <a href="http://picasaweb.google.com/luchini/Mar08RomaDeNoite" target="_blank">Roma de Noite</a>, <a href="http://picasaweb.google.com/luchini/Mar08RomaDeDia" target="_blank">Roma de Dia</a> e <a href="http://picasaweb.google.com/luchini/Mar08Vaticano" target="_blank">Vaticano</a>.

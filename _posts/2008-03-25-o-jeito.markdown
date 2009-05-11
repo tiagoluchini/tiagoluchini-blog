@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 880
+title: O Jeito
+wordpress_url: http://www.tiagoluchini.eu/2008/03/25/o-jeito/
+layout: post
+---
+Para quem tem "o jeito":
+
+[youtube=http://www.youtube.com/watch?v=yTfOomwEbD0]
+
+Se não conseguir visualizar o vídeo, <a href="http://www.youtube.com/watch?v=yTfOomwEbD0" target="_blank">clique aqui</a>.

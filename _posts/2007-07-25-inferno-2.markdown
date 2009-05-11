@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 322
+title: Inferno 2
+wordpress_url: http://www.tiagoluchini.eu/2007/07/25/inferno-2/
+layout: post
+---
+A maioria das pessoas percebe o ambiente de forma passiva. Frases negativistas como "minha vida é uma desgraça", "ninguém me ama mesmo" ou "esse governo que não muda" refletem essa forma passiva de ver o mundo.
+
+Essas pessoas se colocam numa posição onde "algo" precisa acontecer externamente para que a sua vida deixe de ser uma desgraça, que "alguém" precise fazer alguma coisa para demonstrar seu amor ou que um "salvador" político apareça para resolver as mazelas da população. É uma postura que aguarda (ansiosamente ou não) que alguma coisa, algum componente exterior aconteça para que a sua vida deixe de ser um inferno.
+
+Quando escrevo sobre as <a href="http://www.tiagoluchini.eu/2007/07/25/inferno/">tristezas do Brasil como fiz hoje cedo</a>, escrevo da perspectiva de alguém pró-ativo. Não espero que "o Brasil" melhore, que "o governo" melhore ou que alguma coisa fora de mim mesmo mude. Eu sou o único responsável pelo mundo que alinhavo para mim. Nós é que construímos o nosso próprio inferno ou paraíso e isso muita gente parece esquecer.
+
+Se mais pessoas viessem a perceber isso, o inferno Brasileiro seria bem menor.

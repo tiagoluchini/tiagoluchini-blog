@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 155
+title: Kart de Despedida
+wordpress_url: http://www.tiagoluchini.eu/2007/01/22/kart-de-despedida/
+layout: post
+---
+Neste último sábado tivemos a corrida de despedida das pistas no Brasil. Embora com apenas 5 amigos em pista, tivemos muitas emoções.
+
+Bruno Escarim teve problemas no qualify, tendo que inclusive trocar de carro e amargando apenas a quarta posição no grid de largada. Cesinha que estava com um ótimo segundo tempo, perdeu a posição para outro piloto e teve que se contentar com a terceira posição. Eu garanti a primeira posição do grid.
+
+A corrida foi repleta de trocas de posição entre eu e o Cesinha que logo na segunda curva já estava na minha frente. As confusões com os retardatários também garantiram advertências para praticamente todos nós. Por fim, o Cesinha venceu por 2,09 segundos de diferença de mim e com o Bruno se aproximando vertiginosamente.
+
+Ótima corrida de despedida!!
+
+<a title="dsc02355-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02355-small.JPG"><img alt="dsc02355-small.JPG" id="image147" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02355-small.thumbnail.JPG" /></a><a title="dsc02357-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02357-small.JPG"><img alt="dsc02357-small.JPG" id="image148" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02357-small.thumbnail.JPG" /></a><a title="dsc02358-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02358-small.JPG"><img alt="dsc02358-small.JPG" id="image149" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02358-small.thumbnail.JPG" /></a><a title="dsc02366-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02366-small.JPG"><img alt="dsc02366-small.JPG" id="image150" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02366-small.thumbnail.JPG" /></a><a title="dsc02370-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02370-small.JPG"><img alt="dsc02370-small.JPG" id="image151" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02370-small.thumbnail.JPG" /></a><a title="dsc02371-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02371-small.JPG"><img alt="dsc02371-small.JPG" id="image152" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02371-small.thumbnail.JPG" /></a><a title="dsc02372-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02372-small.JPG"><img alt="dsc02372-small.JPG" id="image153" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02372-small.thumbnail.JPG" /></a><a title="dsc02376-small.JPG" class="imagelink" href="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02376-small.JPG"><img alt="dsc02376-small.JPG" id="image154" src="http://www.tiagoluchini.eu/wp-content/uploads/2007/01/dsc02376-small.thumbnail.JPG" /></a>

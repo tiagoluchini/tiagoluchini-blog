@@ -1,0 +1,74 @@
+---
+layout: default
+title: Tiago Luchini
+---
+<div class="content">
+  <h2 class="title">
+    Security
+  </h2>
+
+<p>Although security is a common concern on public networks like the Internet, strong Public/Private-key systems for signing and encryption of data are still to become popular on the user level (they certainly are in protocol levels and other software-related transactions). There are mainly two reasons for this gap: a) concepts are a bit confusing and normally not clear enough and b) technology is still somewhat complex for ordinary users requiring some advanced levels of computer literacy.</p>
+<p><a href="#publickeydownload">Jump straight to my PGP public key</a> if you do not require further security concepts.</p>
+<p><strong>Why is security important?</strong></p>
+<p>There are basically two distinct situations where users should be concerned with security: source certification (signing) and target protection (encryption). Both scenarios are quite trivial in terms of computer means.</p>
+
+<p><strong>Source Certification (Signing)</strong></p>
+<p>Sometimes you want to send some data (e-mail for instance) and you would like to prove that you are the sole and unique sender (source) for that message. You may want to certify to the other end that the message sent is authentic, untampered and was created by you and no one else.</p>
+<p>For these situations, a process called signing takes place. This process will digest your data (source message) and digitally sign it with a unique stamp. The other side (recipient) is able to digest this unique signature and compare it with the message received to certify that the source is authentic.</p>
+<p>Let´s say for example, that Alice wants to send Bob and e-mail containing very delicate data. She is concerned that this data may get lost or even tampered on the internet (it is a very important message! - remember). She them signs her e-mail using a security mechanism. Bob receives this signed message and is able to verify that no tampering happened from source to target and that it was definitely sent by Alice and not by someone impersonating here.</p>
+<p><strong>Target Protection (Encryption)</strong></p>
+<p>Some situations require that some data (an e-mail for instance) is ensured to be open only by a very specific recipient. You want to send a message to a certain person and ensure that only that person is going to be able to open that message and no one else.</p>
+<p>For these situations, a process called encryption takes place. This process will digest your data (source message) and encrypt it in a manner that only a certain recipient will be able to decrypt it.</p>
+<p>For example, take Alice and Bob. Alice wants to send some sensitive files to Bob and is concerned that other people might trap these files during the communication process. These files are targeted only to Bob&#8217;s eyes and no one else. Alice them encrypts it with a special process and sends the encrypted data. Any person that intercepts this &#8220;encrypted pile of data&#8221; will not be able to recompose it. The only person with the right key to undo the encryption process (decrypt) is Bob.</p>
+
+<p><strong>Understanding Public/Private-keys</strong></p>
+<p>Modern security systems use a combination of two keys. One is the public and the other is called private. Public-Private keys are important because the whole signining and encryption processes rely entirely on this idea.</p>
+<p>The main idea is: anything scrambled with your private key is only unscrambled by your public key. The other way around is also true: anything scrambled with your public key is only unscrambled by  your private key.</p>
+<p>If you keep your private key as private as possible (hidden away from others) and then make your public key public (by letting your recipients know it) both processes (signing and encryption) may take place without much hassle.</p>
+<p>Alice has her public-private key and keeps her private key secured (PRIV-A) making her public key available to Bob (PUB-A goes to Bob). Bob does the same processe: keeps PRIV-B secured and sends his PUB-B to Alice. The important thing here is that PUB-A relates only to PRIV-A and PUB-B relates only to PRIV-B.</p>
+<p>When Alice wants to sign some data, she will employ here private key (PRIV-A) and send it to Bob. Bob is then able to use his personall knowledge of Alice&#8217;s public key (PUB-A) and certify that the message came from Alice and no one else.</p>
+<p>If Bob wants to reply to Alice but with a message that only her will be able to use. Bob uses his public copy of Alice&#8217;s public key (PUB-A) to scramble the message and sends it. Alice is the only person able to unscramble it because she is the only one with access to her private key (PRIV-A).</p>
+<p><strong>Which software should I use?</strong></p>
+
+<p>For simplicity and nice user-interfaces, I recommend <strong>PGP Software</strong> that can be found for free at <a href="http://www.pgpi.com/" target="_blank">http://www.pgpi.com/</a> or, for commercial purposes, at <a href="http://www.pgp.com/" target="_blank">http://www.pgp.com/</a></p>
+<p>My preferred choice though is <strong>GnuPG</strong> at <a href="http://www.gnupg.org/" target="_blank">http://www.gnupg.org/</a> which is completely free and available for a broad range of platforms.</p>
+
+<p>For integration with <strong>Firefox</strong> a very good plug-in is <strong>FireGPG</strong> at <a href="http://firegpg.tuxfamily.org/" target="_blank">http://firegpg.tuxfamily.org/</a></p>
+<p>Each version will have different means of generating your own public/private pair, protecting your private key and importing others&#8217; public keys. You should have a look at your software documentation for details as these are out of the scope of this document.</p>
+<p><a title="publickeydownload" name="publickeydownload"></a><strong>Tiago Luchini&#8217;s PGP Public key</strong></p>
+<p>As soon as you have managed to set your environment up, you can start communicating securely with me by using my Public key below.</p>
+
+<p>Download <a href="http://www.tiagoluchini.eu/downloads/tiagoluchini.asc">tiagoluchini.asc</a> (or copy and paste the content below into your PGP-compatible software)</p>
+<p><center></p>
+<table align="center" border="0">
+<tr>
+<td>
+<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.2.2 (MingW32)
+
+mQGiBEed8MIRBAD/rDFcZMrwO9WlouZHtIWD7btw3a2Sh+6lyLXXloKf1gjiq8qy
+lcBz5oMboOoD9wt1gWuw+lMj77YfSui9nuE+B0gHESy0lQdX3Wse0eS03JIOZpy8
+qo+34XNAQEVGdwrSqHLDARAVd+mUK6FIC3nUfJHq2ZC2t3Otao1+u68CIwCg+7ZJ
+l1ohW6iwKlYc3a5+T6V0tJsEAPJjRZQP/fX74laS+IUPeQyeY2LnodulSgjYjhD+
+51+OmggwHQ2WaCXd/vKObVpJUqvvti4LGRoKhRbEhgdj3dMiGMOwD0azkoWAZA3F
+iHDMOndAJQ7k2Z3AcvvKjnJhmMVFjjXAaPCMlLwbQ/JinYgmqLk7dW43JFnU+5hL
+mdSyA/9CZOsG63EASW195bB64JRqou30+YNsn0JfQkzHhzOG1y7x0pYXkEQezGHo
+a59EH8aeUq42IKbhSy4rhV7+dwEe7KI3KSDzDjAudVs5U7KpUL5SuA8Op6AD+n3o
+guayemzdD2UTNEpm2uojpN4EJAM2D2PaOqvjNYmm8lsP5fKX/rQkVGlhZ28gTHVj
+aGluaSA8aW5mb0B0aWFnb2x1Y2hpbmkuZXU+iFsEExECABsFAked8MIGCwkIBwMC
+AxUCAwMWAgECHgECF4AACgkQk+YMBeXhCmyOggCg9sTXkEOVZzUaftA69EIFGcnm
+vwcAnRzWRuOXLOjHN97GdNeHQ3u4LYJOuQENBEed8MIQBACip29VczAFOWlqgvfU
+/+wBnLRo34tEg+Dlj4rhZDjh9k4A0zNxzvfK+OQR13z2Y9Zq6xUsLbCIiDftCQbj
+lLmqopnvAhpw6KLx3YESRxhJPmCxbAMaBAhZNeXzmRfPy1aU2rgrv6R4ebugJEF8
+ITiA/SX62gcFVjtA54WAOJMamwADBQP/V7ZXqC4fh1oZUJ/SeKLSqTXWEhSrE2o2
+JmCOBptj4Vp3zf08TKExNPSYh7nxwmyNke5gqKlhKpijaKKMrZytpwS0kCsnssq0
+eqLc84+QyEEFTtL07ASthtJW6X56tvjb57iKkGgGBSZkBOZLI/vtBoRvoVnL7/SD
+ojoE7FrpzrKIRgQYEQIABgUCR53wwgAKCRCT5gwF5eEKbBiKAJ9MSivWnXnNA5+Z
+oBAMASE7xcKiVgCg8lO1HoEzSfmdYBHfnDVy9PMoOJo=
+=LxhQ
+-----END PGP PUBLIC KEY BLOCK-----</pre>
+</td>
+</tr>
+</table>
+</div>

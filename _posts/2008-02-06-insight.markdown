@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 807
+title: Insight
+wordpress_url: http://www.tiagoluchini.eu/2008/02/06/insight/
+layout: post
+---
+"The opposite of War isn't Peace. It is Creation." (Jonathan Larsson)

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 806
+title: Diz tudo
+wordpress_url: http://www.tiagoluchini.eu/2008/02/05/diz-tudo/
+layout: post
+---
+A música <a href="http://www.youtube.com/watch?v=2FKJhKwDaTQ">entalada</a> na garganta.
+
+[youtube=http://www.youtube.com/watch?v=2FKJhKwDaTQ]

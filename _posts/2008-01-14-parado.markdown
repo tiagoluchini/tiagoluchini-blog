@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 756
+title: Parado
+wordpress_url: http://www.tiagoluchini.eu/2008/01/14/parado/
+layout: post
+---
+Início de ano geralmente é parado mas, em quase 30 anos, não me recordo de um tãããooo parado como este.
+
+O que acontece?

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 717
+title: "\xC3\x89 assim"
+wordpress_url: http://www.tiagoluchini.eu/2007/12/20/e-assim/
+layout: post
+---
+Nessa época do ano é comum que a água congele no chão por estes lados do mundo.
+
+Andar é um desafio constante e, quedas são comuns. Tive a minha hoje depois de tantos dias conseguindo evitar.
+
+Veja o exemplo:
+
+[youtube=http://www.youtube.com/watch?v=-I9xOcjmJYw&amp;NR=1]

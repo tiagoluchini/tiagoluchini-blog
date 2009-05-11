@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 998
+title: Enferrujado
+wordpress_url: http://www.tiagoluchini.eu/?p=998
+layout: post
+---
+Certa vez entrevistei um candidato para uma vaga onde a fluência em inglês era requisito. Quando perguntei se podíamos alternar para o idioma ele respondeu que seu inglês andava enferrujado. Não contratei o indivíduo mas adorei a analogia.
+
+Este talvez seja um dos motivos pelos quais tenho  estado pouco por aqui: usar o português de forma eficiente tem sido difícil e, por que não, até enferrujado pelo desuso.
+
+Enquanto tento sustentar a minha trôpega agenda, peço um pouco de paciência aos normalmente queridos leitores.

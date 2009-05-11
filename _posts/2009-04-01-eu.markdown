@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1334
+title: Eu
+wordpress_url: http://tiagoluchini.eu/?p=1334
+layout: post
+---
+Da série: "uma tirinha diz mais que mil palavras"...
+
+<img class="alignnone size-full wp-image-1333" title="eumesmo" src="http://tiagoluchini.eu/wp-content/uploads/2009/04/eumesmo.png" alt="" width="400" height="731" />
+
+Via: <a href="http://ryotiras.com/posts/eu-eu-mesmo-e-irene-840" target="_blank">Ryot IRAS</a>
