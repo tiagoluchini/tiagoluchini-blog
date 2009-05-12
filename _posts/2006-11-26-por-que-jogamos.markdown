@@ -22,7 +22,7 @@ Ademais, jogos sem tema, chamados abstratos, também continuaram com seu espaço
 
 Independente do que esses adultos modernos jogam, seja video-game, RPG ou os tardios jogos de tabuleiros, a questão da motivação por trás da ação continua ativa: por que um adulto prefere um jogo como opção de entretenimento perante uma gama de outras opções?
 
-<span style="font-weight: bold">Desafios superados</span>
+**Desafios superados**
 
 A resposta pode estar dentro da própria necessidade humana de um desafio. O homem é um ser evoluído e precisa estar constantemente quebrando certas barreiras mesmo que elas sejam impostas num ambiente lúdico, fictício, simulado: mesmo que seja um jogo.
 
@@ -32,37 +32,37 @@ Superar os desafios não significa obrigatoriamente destroçar os adversários. 
 
 Uma série de jogos convidam os jogadores a superar desafios sejam de forma isolada, de forma cooperativa ou até de forma confrontal (aqueles onde quem vencer os desafios de melhor forma é recompesado com a vitória).
 
-<span style="font-weight: bold">O jogo é vencer</span>
+**O jogo é vencer**
 
 Vencer também é um grande atrativo para muitas pessoas. Para elas, derrotar um adversário traz a adrenalina e a emoção que tanto agrada. Geralmente estes jogadores estão presentes para vencer e não para competir. Jogadores assim normalmente esperam o mesmo tipo de atitude do adversário, afinal, de que vale ganhar de quem não quer ganhar?
 
 Competições são muito fortes nos jogos até mesmo reforçando a nossa característica animal de caça e de sobrevivência do mais forte. Boa parte dos jogos traz uma boa quantidade de competição principalmente naqueles onde existem temáticas de guerra, luta ou disputa esportiva onde só um jogador “sorevive” até a vitória.
 
-<span style="font-weight: bold">Diversão em primeiro lugar</span>
+**Diversão em primeiro lugar**
 
 É preciso lembrar do próprio entretenimento em si. Muitas pessoas apreciam jogar pelo simples fato da diversão que o jogo traz. Pessoas com esse perfil preferem jogos simples, rápidos, leves, de fácil assimilação e que tragam algum toque de humor de preferência. Para elas é mais importante se divertir com algo bem direcionado e sem muita complicação do que vencer ou superar algum desafio: o que importa é a diversão acima de tudo.
 
 Muitos jogos são direcionados para este público e normalmente requerem muito pouca experiência dos jogadores e podem ser jogados de forma prática e rápida. São comumente chamado de “fillers” (do inglês “preenchedores”) porque preenchem o tempo de forma bastante agradável e sem complicações.
 
-<span style="font-weight: bold">Socialização</span><br style="font-weight: bold" /><br style="font-weight: bold" />Os jogos trazem consigo a própria necessidade do social. É inevitável jogar com um grupo sem ao menos interagir com os outros jogadores, encontrando amigos e conhecendo novas pessoas.
+**Socialização**<br style="font-weight: bold" /><br style="font-weight: bold" />Os jogos trazem consigo a própria necessidade do social. É inevitável jogar com um grupo sem ao menos interagir com os outros jogadores, encontrando amigos e conhecendo novas pessoas.
 
 Para algumas pessoas o contato social e a interação entre os jogadores torna o jogo algo de menor importância: conversar, colocar o papo em dia e dar risadas com os amigos vale mais do que mil vitórias.
 
 Alguns jogos estimulam a interação seja por meio de negociações ou outras necessidades específicas do tema - normalmente até premiando aqueles que interagirem melhor. Ademais, muitos jogos simples e divertidos também são apreciados por pessoas que visam a socialização.
 
-<span style="font-weight: bold">Jogar é aprender</span>
+**Jogar é aprender**
 
 Uma grande linha de jogos seja por motivos intencionais ou não, acabam por servir como uma ótima plataforma para o aprendizado e educação. Os jogos podem ser usados para aprender algum princípio lógico, estratégico ou matemático além de servir para ensinar e transmitir conceitos, filosofias e metáforas específicas que podem ser facilmente adaptadas à realidade.
 
 Também não são poucos os jogos com um fundo histórico tão palpável que acabam por ensinar valiosos preceitos históricos e muitas vezes até geográficos. As ciências também não ficam de fora e até o aprendizado de outras línguas nas constantes navegações que os jogadores precisam fazer entre seus jogos preferidos.
 
-<span style="font-weight: bold">Que mundo é este?</span>
+**Que mundo é este?**
 
 Muitas pessoas enxergam nos jogos uma oportunidade de se desligarem temporariamente dos problemas e aflições da sua vida. O jogo se torna um mundo pessoal onde novas e instigantes opções se abrem. Essas pessoas conseguem facilmente utilizar os jogos como válvula de escape para aprender a lidar melhor com as frustrações do mundo que as cerca.
 
 Poucos jogos foram criados para fins terapêuticos tão específicos mas se destacam aqui aqueles jogos com uma alta necessidade de criatividade, dedicação e interação provavelmente no cumprimento de algum papel específico. Outros jogos também conseguem atender a este público ao embasar fortemente em temas populares ou altamente atraentes.
 
-<span style="font-weight: bold">Tudo isso junto</span>
+**Tudo isso junto**
 
 É bem certo que estas não são as únicas motivações envolvidas. Certamente que outras características podem atrair e, acima disso, combinar para as reais motivações individuais no momento da escolha de um entretenimento. Alguém pode muito bem estar buscando ansiosamente a vitória ao mesmo tempo em que mergulha no mundo do jogo como estratégia escapista dos seus problemas. Outra pessoa pode ansiar por superar seus desafios pessoais enquanto aprende algum conceito novo.
 
