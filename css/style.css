@@ -51,7 +51,7 @@ h1, .post {
 }
 
 .post .title a:hover {
-  border: 1px dotted #004491;
+  border-bottom: 1px solid #004491;
 }
 
 #header {
