@@ -1,5 +1,5 @@
 <?php
 $f = fopen('update.json', 'w');
-fwrite($f, $POST['payload']);
+fwrite($f, $_POST['payload']);
 fclose($f);
 ?>
