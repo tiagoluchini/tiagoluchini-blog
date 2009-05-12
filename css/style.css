@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font: 15px Verdana, sans-serif;
+	font: 13px Verdana, sans-serif;
 	line-height: 1.8em;
 	color: black;
 	background: white;
@@ -20,9 +20,9 @@ body {
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: normal;
-  line-height: 1.4em;
+  line-height: 1.3em;
   border-bottom: 1px dotted #ddd;
   padding-bottom: 0.2em;
   margin-bottom: -0.3em;
@@ -30,7 +30,7 @@ h2 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.8em;
   font-weight: normal;
 	border-bottom: 1px dotted #ddd;
 
@@ -42,7 +42,7 @@ h1, .post {
 }
 
 .post .title a {
-  color: black;
+  color: #004491;
   text-decoration: none;
   border: none;
   padding: 0;
@@ -51,7 +51,7 @@ h1, .post {
 }
 
 .post .title a:hover {
-  border: none;
+  border: 1px dotted #004491;
 }
 
 #header {
