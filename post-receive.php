@@ -1,3 +1,5 @@
 <?php
-system('/home/tiagoluchini/tiagoluchini.eu/post_receive/update.sh');
+$f = fopen('update.json', 'w');
+fwrite($f, $POST['payload']);
+fclose($f);
 ?>
