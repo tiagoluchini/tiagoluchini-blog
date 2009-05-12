@@ -8,6 +8,7 @@ O Youtube realizou recentemente um concurso de curtas chamado <a href="http://ww
 
 Valem os 6 minutos e 43 segundos. Segue:
 
-[youtube=http://www.youtube.com/watch?v=gl74J-aAnfg]
+{% assign code = 'gl74J-aAnfg' %}
+{% include youtube.html %}
 
 Na era digital, grande sacada lançar um concurso assim. O segundo lugar ficou com <a href="http://www.youtube.com/watch?v=iDMnP8uyM9c" target="_blank">Gone In a Flash</a> (dormi no meio - não sei do que se trata) e o terceiro com <a href="http://www.youtube.com/watch?v=ZiRHyzjb5SI" target="_blank">My Name Is Lisa</a> (muito, mas muito bom).

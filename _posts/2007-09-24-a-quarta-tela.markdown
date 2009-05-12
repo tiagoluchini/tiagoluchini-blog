@@ -6,6 +6,7 @@ layout: post
 ---
 Fantástico vídeo promocional da Nokia.
 
-[youtube=http://www.youtube.com/watch?v=XpeNk3E36YU]
+{% assign code = 'XpeNk3E36YU' %}
+{% include youtube.html %}
 
 Via: <a href="http://www.marceloeduardo.com/blog/mobility/random-links-good-reading" target="_blank">Marcelo Eduardo</a>

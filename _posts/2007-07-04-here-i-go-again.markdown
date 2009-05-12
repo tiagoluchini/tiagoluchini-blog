@@ -4,10 +4,10 @@ title: Here I Go Again
 wordpress_url: http://www.tiagoluchini.eu/2007/07/04/here-i-go-again/
 layout: post
 ---
-<strong>Here I Go Again
-(Whitesnake)</strong>
+**Here I Go Again** _(Whitesnake)_
 
-[youtube=http://www.youtube.com/watch?v=efZzYBMDxv0]
+{% assign code = 'efZzYBMDxv0' %}
+{% include youtube.html %}
 
 I don't know where I'm going
 But, I sure know where I've been
@@ -63,4 +63,5 @@ And I've made up my mind
 I ain't wasting no more time...
 
 Here I go again...
+
 Here I go again...

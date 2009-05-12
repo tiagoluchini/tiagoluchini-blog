@@ -8,4 +8,5 @@ Pequeno vídeo de uma parte do culto do domingo passado no Corpo de Vaasa onde t
 
 O Major Paulo Franke está falando alguma coisa em Suéco enquanto a Major Anneli traduz para o Finlandês.
 
-[youtube=http://www.youtube.com/watch?v=TyBEFzLNgDM]
+{% assign code = 'TyBEFzLNgDM' %}
+{% include youtube.html %}

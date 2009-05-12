@@ -8,8 +8,11 @@ Certa vez meu filho ganhou um saco de apitos de natal. Eram mais de 60 apitos - 
 
 Toda vez que você quiser desagradar os pais de uma crianca, presenteie-a com algo do gênero ou então isto:
 
-[youtube=http://www.youtube.com/watch?v=10xvuoJU7Ac]
+{% assign code = '10xvuoJU7Ac' %}
+{% include youtube.html %}
 
 Para os românticos de plantão que adoram uma serenata no Natal para a namorada ou esposa repleta de letras melosas recomendo essa nova música (em inglês infelizmente - mas hilário pela metalinguística):
 
-[youtube=http://www.youtube.com/watch?v=Zc1Js9P3urw]
+{% assign code = 'Zc1Js9P3urw' %}
+{% include youtube.html %}
+

@@ -4,44 +4,44 @@ title: A Heart to Hang Onto
 wordpress_url: http://www.tiagoluchini.eu/2007/07/02/a-heart-to-hang-onto/
 layout: post
 ---
-<strong>A Heart  to Hang Onto
-(Pete Townshend</strong> )
+**A Heart  to Hang Onto**
+_(Pete Townshend)_
 
-[youtube=http://www.youtube.com/watch?v=TrgbT6L-yoQ]
+{% assign code = 'TrgbT6L-yoQ' %}
+{% include youtube.html %}
 
-<em>  		Johnny boy, he's always propping up the bar
+_Johnny boy, he's always propping up the bar
 He's sees life crystallized through his jar
 He says he only lives for beer
-But deep in his heart is a cry of fear</em>
+But deep in his heart is a cry of fear_
 
-<em>Give me a heart to hang onto
+_Give me a heart to hang onto
 Give me a soul that's tailored new
 Give me a heart to hang onto
-A heart to hang onto</em>
+A heart to hang onto_
 
-<em>Sally seems to get bigger everyday
+_Sally seems to get bigger everyday
 She evens out in a contented way
 A finger on the pulse of every guy
-But deep in the night you can hear her cry</em>
+But deep in the night you can hear her cry_
 
-<em>Give me a heart to hang onto
+_Give me a heart to hang onto
 Give me a life that's tailored new
 Give me a heart to hang onto
-<class id="NoSteal"></class>
-Oh please a heart to hang onto</em>
+Oh please a heart to hang onto_
 
-<em>Give me heart to hang onto
+_Give me heart to hang onto
 Give me a soul that's tailored new
-Give me a heart to hang onto</em>
+Give me a heart to hang onto_
 
-<em>Danny, he wants to save for a new guitar
+_Danny, he wants to save for a new guitar
 He's going to learn to play but he won't get far
 He thinks it's an easy going' high
-But his whole life is just another try</em>
+But his whole life is just another try_
 
-<em>Give me a heart to hang onto
+_Give me a heart to hang onto
 Give me a suit that's tailored true
 Give me a heart to hang onto
-A heart to hang onto</em>
+A heart to hang onto_
 
-<em>I need a heart... to hang onto...</em>
+_I need a heart... to hang onto..._

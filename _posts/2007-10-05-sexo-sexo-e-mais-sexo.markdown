@@ -8,7 +8,10 @@ O amigo <a href="http://slsnake.wordpress.com/" target="_blank">Sérgio Seloti</
 
 Como o charmoso personagem Trekkie Monster (abaixo) afirma no musical <a href="http://www.avenueq.com/" target="_blank">Avenue Q</a>: "The Internet is really, really great... for porn".
 
-<img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/10/trekkiemonster.jpg" alt="trekkiemonster.jpg" />
+![trekkie](/wp-content/uploads/2007/10/trekkiemonster.jpg)
 
 Duvida? Veja o vídeo muito criativo abaixo que mistura meio e mensagem:
-[youtube=http://www.youtube.com/watch?v=QOFTQpNhsWE]
+
+{% assign code = 'QOFTQpNhsWE' %}
+{% include youtube.html %}
+

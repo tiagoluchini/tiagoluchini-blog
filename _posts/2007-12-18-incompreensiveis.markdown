@@ -7,10 +7,13 @@ layout: post
 Boas leituras hoje. De comédia à terror passando pelas tradicionais notícias e demais frivolidades do meu trabalho.
 
 A frase do dia:
-<blockquote>"Incomprehensible men! Wrapped up in meditations of a kind which I cannot divine, they pass me by unnoticed." (Edgar Allan Poe - MS. Found in a Bottle)</blockquote>
-<hr />
-<blockquote>"Homens incompreensíveis! Perdidos em meditações de uma espécie que não consigo entender, passam por mim sem notar-me." (Edgar Allan Poe - MS. Found in a Bottle)</blockquote>
+
+> "Incomprehensible men! Wrapped up in meditations of a kind which I cannot divine, they pass me by unnoticed." (Edgar Allan Poe - MS. Found in a Bottle)
+
+> "Homens incompreensíveis! Perdidos em meditações de uma espécie que não consigo entender, passam por mim sem notar-me." (Edgar Allan Poe - MS. Found in a Bottle)</blockquote>
+
 Faz lembrar inevitavelmente de "Behind Blue Eyes" do The Who e re-produzido há poucos anos (simplificadamente) por Limp Bizkit. Acompanhe a letra com a <a href="http://www.youtube.com/watch?v=4umWJ-o1KlA" target="_blank">interpretação de Bryan Adans ao vivo no Royal Albert Hall em 2000</a> (imperdível pelo rock sério).
+
 <table border="0">
 <tr>
 <td>No one knows what it's like

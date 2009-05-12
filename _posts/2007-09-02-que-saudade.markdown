@@ -6,4 +6,6 @@ layout: post
 ---
 Que saudade de correr... principalmente com esse pessoal:
 
-[youtube=http://www.youtube.com/watch?v=OZH02KHRuGI]
+{% assign code = 'OZH02KHRuGI' %}
+{% include youtube.html %}
+

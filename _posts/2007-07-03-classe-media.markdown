@@ -4,9 +4,10 @@ title: "Classe M\xC3\xA9dia"
 wordpress_url: http://www.tiagoluchini.eu/2007/07/03/classe-media/
 layout: post
 ---
-<strong>Classe Média
-(Max Gonzaga)</strong>
+**Classe Média** _(Max Gonzaga)_
 
 Enviado por Eric Gallardo bem quando eu procurava uma letra inteligente em Português (ainda bem que temos muitas).
 
-[youtube=http://www.youtube.com/watch?v=KfTovA3qGCs]
+{% assign code = 'KfTovA3qGCs' %}
+{% include youtube.html %}
+

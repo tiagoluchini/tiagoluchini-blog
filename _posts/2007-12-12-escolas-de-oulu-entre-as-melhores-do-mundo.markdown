@@ -4,8 +4,11 @@ title: Escolas de Oulu entre as melhores do mundo
 wordpress_url: http://www.tiagoluchini.eu/2007/12/12/escolas-de-oulu-entre-as-melhores-do-mundo/
 layout: post
 ---
-<img src="http://www.65degreesnorth.com/images/stories/News/photo_OIS_Kelvey_and_Marja2.JPG" alt="Image" title="Image" align="left" border="0" height="180" hspace="10" vspace="5" width="240" /><strong>Recentes pesquisas mostram que as escolas Finlandesas são as melhores do mundo e professores que vieram do exterior para Oulu notam a diferença. Reportagem de Dan Murphy, tradução de Tiago Luchini.
-</strong>
+![Kelvey & Marja](http://www.65degreesnorth.com/images/stories/News/photo_OIS_Kelvey_and_Marja2.JPG)
+
+# Recentes pesquisas mostram que as escolas Finlandesas são as melhores do mundo e professores que vieram do exterior para Oulu notam a diferença. 
+
+_Reportagem de Dan Murphy, tradução de Tiago Luchini._
 
 Na última terça-feira, a Organizacão para Cooperação e Desenvolvimento Econômico (OECD em sua sigla em Inglês) publicou os mais recentes resultados de uma pesquisa realizada em 57 países. O Programa para Verificação dos Estudantes Internacionais (PISA em sua sigla em Inglês) testou a proficiência de alunos com 15 anos de idade em ciências, leitura e matemática.
 
@@ -65,12 +68,12 @@ Mesmo que as críticas contenham alguma validade dificilmente reduzirão o holof
 
 Publicado originalmente em 7/Dez/2007
 
-Fonte: <a href="http://www.65degreesnorth.com/content/view/517/1/" target="_blank">65 Degrees North</a>
+Fonte: [65 Degrees North](http://www.65degreesnorth.com/content/view/517/1/)
 
-<em>Notas:</em>
+**Notas:**
 
-<em>Notícia interessante sobre os últimos resultados do PISA principalmente porque foi escrita por um indivíduo que conheço, sobre uma escola que conheço, sobre cursos que conheço e pessoas que conheço. Ou seja, mais próximo de mim só se eu mesmo tivesse escrito o texto.</em>
+_Notícia interessante sobre os últimos resultados do PISA principalmente porque foi escrita por um indivíduo que conheço, sobre uma escola que conheço, sobre cursos que conheço e pessoas que conheço. Ou seja, mais próximo de mim só se eu mesmo tivesse escrito o texto._
 
-<em>Sobre as críticas ao PISA elas são memoráveis. Inglaterra sempre participou do teste com receio. Na prática é muito sofrível para países com complexo de superioridade como os EUA ou a França verem seus resultados tão ruins.</em>
+_Sobre as críticas ao PISA elas são memoráveis. Inglaterra sempre participou do teste com receio. Na prática é muito sofrível para países com complexo de superioridade como os EUA ou a França verem seus resultados tão ruins._
 
-<em>Essa conversa de "os resultados não são comparáveis entre países" é rível. Visite o <a href="http://www.pisa.oecd.org/" target="_blank">site do PISA</a>, leia a metodologia da pesquisa e chegue as suas próprias conclusões.</em>
+_Essa conversa de "os resultados não são comparáveis entre países" é rível. Visite o [site do PISA](http://www.pisa.oecd.org/), leia a metodologia da pesquisa e chegue as suas próprias conclusões._

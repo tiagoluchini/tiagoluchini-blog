@@ -12,16 +12,20 @@ Santos Dummont não era desses. Era um boêmio com tendências humanitárias: qu
 
 O vídeo abaixo é um resumo rápido da sua história pré-14bis passando pelos vôos do mesmo e chegando no famoso Demoiselle. Os poucos registros em vídeo e fotos do evento aparecem nessa montagem. Se você nunca viu e/ou conhece pouco da história, vale os poucos minutos:
 
-[youtube=http://www.youtube.com/watch?v=vhE7UPOlmeQ]
+{% assign code = 'vhE7UPOlmeQ' %}
+{% include youtube.html %}
 
 Os irmãos Wright mantinham seus inventos em segredo e, lá pelos idos de 1906 quando Santos Dummont já havia voado, ainda estavam tentando decolar sem nenhum auxílio externo. Os vídeos, fotos e artigos lembram a originalidade de Santos Dummont.
 
 Este próximo vídeo é uma das diversas réplicas do 14-bis que voou e voou muito bem-obrigado. Aliás, diga-se de passagem, algo que as réplicas do Flyer dos Wright nunca conseguiram fazer pelo simples fato que o Flyer não decola com os motores da época.
 
-[youtube=http://www.youtube.com/watch?v=QBKvTCirI94]
+{% assign code = 'QBKvTCirI94' %}
+{% include youtube.html %}
 
 Este cenário voltou à minha mente até porque voei recentemente num brasileiríssimo Embraer 190. O orgulho nacionalista também falou forte. Uma linda aeronave muito moderna e confortável. Pequenos detalhes todos bem cuidados que dão orgulho de saber que tudo aquilo foi feito lá na minha saudosa terra.
 
 O vídeo abaixo é um promocional do Embraer 190. Também vale gastar um tempo se quiser ter um pouco de orgulho do país que traz tantas vergonhas e, eventualmente, um ou outro orgulho de vez em quando.
 
-[youtube=http://www.youtube.com/watch?v=qEmVMjFr3ZQ]
+{% assign code = 'qEmVMjFr3ZQ' %}
+{% include youtube.html %}
+

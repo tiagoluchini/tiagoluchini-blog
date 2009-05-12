@@ -10,7 +10,9 @@ Mesmo assim estou me esforçando - acredito que vale a pena dar crédito àquele
 
 Seu ponto central é que perdemos gradativamente o referencial da realidade pela simulação que criamos daquilo que entendemos como "realidade". Com o tempo, a simulação é tão grande, tão carregada de significado e tão palpável para nós que a realidade já não existe mais (radical né?) A isso ele chama de simulacra.
 
-<img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/10/cheguevara.jpg" title="cheguevara.jpg" alt="cheguevara.jpg" align="left" hspace="10" />O legal foi ler <a href="http://josiasdesouza.folha.blog.uol.com.br/arch2007-10-07_2007-10-13.html#2007_10-08_01_05_45-10045644-0" target="_blank">um exemplo no jornal hoje</a>. Che Guevara simbolizava um movimento revolucionário desde mais de 40 anos atrás. Depois que morreu, a imagem ao lado foi uma das mais reproduzidas do século 20. Tão reproduzida que virou arte pop, camisetas, pichações e, veja só, até embrulha sorvetes, cigarros e picolés (sabores cereja ou goiaba).
+![che](/wp-content/uploads/2007/10/cheguevara.jpg)
+
+O legal foi ler <a href="http://josiasdesouza.folha.blog.uol.com.br/arch2007-10-07_2007-10-13.html#2007_10-08_01_05_45-10045644-0" target="_blank">um exemplo no jornal hoje</a>. Che Guevara simbolizava um movimento revolucionário desde mais de 40 anos atrás. Depois que morreu, a imagem ao lado foi uma das mais reproduzidas do século 20. Tão reproduzida que virou arte pop, camisetas, pichações e, veja só, até embrulha sorvetes, cigarros e picolés (sabores cereja ou goiaba).
 
 É um símbolo de revolução desbancando para o próprio capital e para o sistema de produção ao qual era radicalmente contra.
 

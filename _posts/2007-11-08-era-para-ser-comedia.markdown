@@ -10,6 +10,7 @@ Assim eu achava até assistir o vídeo abaixo: por mais que eu o assista e reass
 
 Enfim, aguardo comentários (apenas cuidado para não ter pesadelos):
 
-[youtube=http://www.youtube.com/watch?v=vdX_OBUeHb4]
+{% assign code = 'vdX_OBUeHb4' %}
+{% include youtube.html %}
 
 Via <a href="http://www.saynotocrack.com/index.php/2007/11/04/i-take-it-back/" target="_blank">SayNoToCrack</a>

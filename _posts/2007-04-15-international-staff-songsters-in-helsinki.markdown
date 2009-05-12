@@ -8,5 +8,8 @@ Fim de semana passado eu e o Leandro viajamos até Helsinki para assistir à apr
 
 Foi a primeira vez em 27 anos de existência do grupo que visitaram o Território Finlandês.
 
-<a target="_blank" href="http://picasaweb.google.com/tiagoluchini/ViagemHelsinkiEInternationalStaffSongsters08Abr07">Veja as fotos aqui</a> ou assista ao vídeo dos melhores momentos abaixo:
-[youtube=http://www.youtube.com/watch?v=IX-GbF521o8]
+Assista ao vídeo dos melhores momentos abaixo:
+
+{% assign code = 'IX-GbF521o8' %}
+{% include youtube.html %}
+

@@ -8,4 +8,6 @@ Alguém na Nokia outro dia me comentou que ninguém está preocupado com o iPhon
 
 <a href="http://blogs.zdnet.com/mobile-gadgeteer/?p=469" target="_blank">Esse artigo</a> é bem instrutivo e o vídeo abaixo é uma piadinha já velha mas que encaixa no tema.
 
-[youtube=http://www.youtube.com/watch?v=1xXNoB3t8vM]
+{% assign code = '1xXNoB3t8vM' %}
+{% include youtube.html %}
+

@@ -10,4 +10,6 @@ Por ter um piloto envolvido tanto nos escândalos quanto na possibilidade de vit
 
 O vídeo abaixo é a transmissão da TV Espanhola, Tele 5, da última corrida onde "el milagro" aconteceu para dar chances a Alonso. A empolgação dos narradores é impagável.
 
-[youtube=http://www.youtube.com/watch?v=zyAUYfDDLyM]
+{% assign code = 'zyAUYfDDLyM' %}
+{% include youtube.html %}
+

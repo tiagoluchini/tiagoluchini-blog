@@ -4,12 +4,13 @@ title: The Song that Goes like This
 wordpress_url: http://www.tiagoluchini.eu/2007/07/05/the-song-that-goes-like-this/
 layout: post
 ---
-The Song that Goes like This
-(Musical Spamalot - Monty Python)
+**The Song that Goes like This**
+_(Musical Spamalot - Monty Python)_
 
 Depois de uma semana colocando letras sérias que tal terminar a sequência com algo bem profundo?
 
-[youtube=http://www.youtube.com/watch?v=gcyjiqTfPLM]
+{% assign code = 'gcyjiqTfPLM' %}
+{% include youtube.html %}
 
 Once in every show
 There comes a song like this

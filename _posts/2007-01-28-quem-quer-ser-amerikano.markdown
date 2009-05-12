@@ -8,4 +8,6 @@ Cruzei casualmente com o curta abaixo e fiquei surpreso. Produzido pelos alunos 
 
 Invista os 10min do curta que você não irá se arrepender.
 
-[youtube=http://www.youtube.com/watch?v=__qWoUeU6tI]
+{% assign code = '__qWoUeU6tI' %}
+{% include youtube.html %}
+

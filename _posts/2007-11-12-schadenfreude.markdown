@@ -5,19 +5,21 @@ wordpress_url: http://www.tiagoluchini.eu/2007/11/12/schadenfreude/
 layout: post
 ---
 No musical cômico <a href="http://www.avenueq.com" target="_blank">Avenue Q</a> um dos personagens é expulso de casa e passa a viver nas ruas abandonado e humilhado. Outro personagem, amigo do primeiro, se aproxima e começa a cantar em tom triste e melancólico:
-<blockquote>Gary:
-Neste exato momento você está pra baixo e excluído
-se sentindo um verdadeiro lixo
 
-Nick:
-Eu que o diga.
+> Gary:
+> Neste exato momento você está pra baixo e excluído
+> se sentindo um verdadeiro lixo
+> 
+> Nick:
+> Eu que o diga.
+> 
+> Gary:
+> E quando eu vejo a sua tristeza... ela faz eu me sentir...
+> ...feliz!!!
+>
+> Nick:
+> Feliz?!?!
 
-Gary:
-E quando eu vejo a sua tristeza... ela faz eu me sentir...
-...feliz!!!
-
-Nick:
-Feliz?!?!</blockquote>
 A música se chama Schadenfreude e explica o que esta palavra de origem alemã significa. <a href="http://en.wikipedia.org/wiki/Schadenfreude" target="_blank">Schaudenfreude</a> é a felicidade pela desgraça de alguém e, embora não tenha paralelos em inglês ou português, existe em finlandês: vahingonilo.
 
 Sentir felicidade pelo desfortúnio de alguém parece algo mau e que a maioria das pessoas não estaria disposta a fazer.
@@ -35,10 +37,10 @@ Volte os olhos então para aquele playboy num carrão importado. Aquecedor ligad
 Na melhor das hipóteses você é desprendido o suficiente e simplesmente nem se importa com o indivíduo do carro importado. Mesmo assim, suas reações foram diferentes.
 
 Entender o schaudenfreude é muito importante por dois motivos:
-<ol>
-	<li>toda vez que você está um lixo pode ter a clara noção que está prestando um serviço à sociedade. Pelo menos as pessoas estão ficando mais felizes acompanhando sua desgraça. Além disso, você aprende a rir da sua própria desgraça;</li>
-	<li>você pode observar aqueles "por cima da maionese" e, ao invés de invejá-los, apenas se alegrar com eles. Garanto - é muito mais divertido do que sentir inveja.</li>
-</ol>
+
+* toda vez que você está um lixo pode ter a clara noção que está prestando um serviço à sociedade. Pelo menos as pessoas estão ficando mais felizes acompanhando sua desgraça. Além disso, você aprende a rir da sua própria desgraça;
+* você pode observar aqueles "por cima da maionese" e, ao invés de invejá-los, apenas se alegrar com eles. Garanto - é muito mais divertido do que sentir inveja.
+
 Infelizmente alguém nos ensina que schaudenfreude é errado. Minha primeira repressão do scahudenfreude foi quando eu tinha uns 10 anos. Andava pela praia com um amigo mais novo e com seu pai. O menino mais novo resolveu subir num suporte de algum barco, perdeu o equilíbrio e caiu de cara na areia fofa. Além da engracadíssima queda, levantou com a cara cheia de areia só com os olhos e a boca aparecendo. Engracadíssimo e, claro, meu cérebro estava feliz de não ter sido eu o estúpido a fazer aquilo. Entrei numa gargalhada incontrolável e levei uma baita bronca do pai do menino: "Não se ri das desgraças dos outros."
 
 Hoje rio das minhas próprias desgraças e sou muito feliz!
@@ -47,4 +49,4 @@ Aprecio sinceramente as alegrias dos meus amigos sem deixar de me compadecer pel
 
 E rio de tudo isso. Rio muito!
 
-<em>PS.: querendo <a href="http://www.youtube.com/watch?v=1F8a-zzYYIo" target="_blank">ouvir a música</a> sinta-se em casa. Esteja preparado para um inglês americano cheio de regionalismos e palavrões (eu avisei!) </em>
+_PS.: querendo [ouvir a música](http://www.youtube.com/watch?v=1F8a-zzYYIo) sinta-se em casa. Esteja preparado para um inglês americano cheio de regionalismos e palavrões (eu avisei!)_

@@ -4,10 +4,10 @@ title: Saudosa Maloca
 wordpress_url: http://www.tiagoluchini.eu/2007/07/03/saudosa-maloca/
 layout: post
 ---
-<strong>Saudosa Maloca
-(Adoniran Barbosa)</strong>
+**Saudosa Maloca** _(Adoniran Barbosa)_
 
-[youtube=http://www.youtube.com/watch?v=GfA5jKkipu4]
+{% assign code = 'GfA5jKkipu4' %}
+{% include youtube.html %}
 
 Se o sinhô não tá lembrado
 Dá licença de contá

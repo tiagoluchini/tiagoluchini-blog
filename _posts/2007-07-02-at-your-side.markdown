@@ -4,10 +4,10 @@ title: At Your Side
 wordpress_url: http://www.tiagoluchini.eu/2007/07/02/at-your-side/
 layout: post
 ---
-<strong>AT YOUR SIDE
-(The Corrs)</strong>
+**AT YOUR SIDE** _(The Corrs)_
 
-[youtube=http://www.youtube.com/watch?v=_7fBmci9_bg]
+{% assign code = '_7fBmci9_bg' %}
+{% include youtube.html %}
 
 <em>When the daylight's gone and you're on your own
 And you need a friend just to be around

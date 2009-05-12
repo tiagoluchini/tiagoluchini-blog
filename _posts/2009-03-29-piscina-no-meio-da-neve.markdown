@@ -8,6 +8,7 @@ Taí algo que fiz recentemente e ainda não tinha arranjado o vídeo para compar
 
 O vídeo vale, senão por mais nada, pelo menos pelo meu irresistivel sex-appeal de sunguinha...
 
-[youtube=http://www.youtube.com/watch?v=C_FGaK7bDWk]
+{% assign code = 'C_FGaK7bDWk' %}
+{% include youtube.html %}
 
 PS: Não aguentei nem segurar a bola de neve nos dedos congelados... uma delícia...

@@ -24,7 +24,7 @@ Fico preocupado para onde esta cordialidade nos leva. A cordialidade exagerada a
 
 Abaixo o famoso vídeo onde o finlandês Kimi Raikkonen é extremamente sincero antes do GP do Brasil de 2006. Nada mais natural...
 
-[youtube=http://www.youtube.com/watch?v=QiihuCug3jw]
+{% assign code = 'QiihuCug3jw' %}
+{% include youtube.html %}
 
-<em>PS.: se você ouvir da minha boca ou ler da minha escrita algumas sinceridades - tente não se magoar - estou apenas sendo mais prático (aliás, afirmar nossa hipocrisia brasileira não é nada mais do que a mais pura sinceridade).
-</em>
+_PS.: se você ouvir da minha boca ou ler da minha escrita algumas sinceridades - tente não se magoar - estou apenas sendo mais prático (aliás, afirmar nossa hipocrisia brasileira não é nada mais do que a mais pura sinceridade)._

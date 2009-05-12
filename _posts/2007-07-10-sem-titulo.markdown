@@ -8,14 +8,17 @@ Semana passada só postei músicas aqui no blog. A idéia era colocar músicas c
 
 Para celebrar meu aniversário, coloco duas músicas brasileiras que comunicam tanto em tão pouco tempo, com melodias de quebrar qualquer barreira e, por que não novamente, comunicam parte de mim hoje.
 
-A primeira é <strong>A Lista</strong> de Oswaldo Montenegro e a segunda é<strong> Sinal Fechado</strong> de Paulinho da Viola.
+A primeira é **A Lista** de Oswaldo Montenegro e a segunda é **Sinal Fechado** de Paulinho da Viola.
 
 Ambos os vídeos são muito ruins e não são exatamente dos fonogramas que eu queria compartilhar mas isso só mostra como desvalorizamos nossa obra cultural brasileira.
 
-<strong>A Lista</strong>
+**A Lista**
 
-[youtube=http://www.youtube.com/watch?v=znqLIOd5SMQ]
+{% assign code = 'znqLIOd5SMQ' %}
+{% include youtube.html %}
 
-<strong>Sinal Fechado</strong>
+**Sinal Fechado**
 
-[youtube=http://www.youtube.com/watch?v=h6mrxBkZS54]
+{% assign code = 'h6mrxBkZS54' %}
+{% include youtube.html %}
+
