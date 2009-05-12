@@ -4,11 +4,11 @@ title: Escolas de Oulu entre as melhores do mundo
 wordpress_url: http://www.tiagoluchini.eu/2007/12/12/escolas-de-oulu-entre-as-melhores-do-mundo/
 layout: post
 ---
-![Kelvey & Marja](http://www.65degreesnorth.com/images/stories/News/photo_OIS_Kelvey_and_Marja2.JPG)
 
-# Recentes pesquisas mostram que as escolas Finlandesas são as melhores do mundo e professores que vieram do exterior para Oulu notam a diferença. 
-
+## Recentes pesquisas mostram que as escolas Finlandesas são as melhores do mundo e professores que vieram do exterior para Oulu notam a diferença. 
 _Reportagem de Dan Murphy, tradução de Tiago Luchini._
+
+![Kelvey & Marja](http://www.65degreesnorth.com/images/stories/News/photo_OIS_Kelvey_and_Marja2.JPG)
 
 Na última terça-feira, a Organizacão para Cooperação e Desenvolvimento Econômico (OECD em sua sigla em Inglês) publicou os mais recentes resultados de uma pesquisa realizada em 57 países. O Programa para Verificação dos Estudantes Internacionais (PISA em sua sigla em Inglês) testou a proficiência de alunos com 15 anos de idade em ciências, leitura e matemática.
 
