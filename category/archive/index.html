@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tiago Luchini
+title: Tiago Luchini - Archive
 ---
-{% for page in site.posts limit:10 %}
+{% for page in site.topics.archive limit:10 %}
 {% assign body = page.content %}
 {% include post-div.html %}
 {% endfor %}

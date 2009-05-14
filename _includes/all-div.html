@@ -1,0 +1,21 @@
+<div class="content">
+{% assign month = 0 %}
+{% assign year = 0 %}
+{% for page in collection %}
+  {% if year != page.date.year %}
+    <a name="{{ page.date | date: "%Y"}}"></a>
+    {% assign year = page.date.year %}
+  {% endif %}    
+  {% if month != page.date.month %}
+    <a name="{{ page.date | date: "%Y%m"}}"></a>
+    <h2 class="title">
+      <span class="date">{{ page.date | date: "%Y %b"}}</span>
+    </h2>
+    {% assign month = page.date.month %}
+  {% endif %}
+  <h3 class="title">
+    <span class="date">{{ page.date | date: "%d"}}</span>
+    <a href="{{ page.url }}">{{ page.title }}</a>
+  </h3>
+{% endfor %}
+</div>

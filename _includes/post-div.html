@@ -7,12 +7,13 @@
   </div>
   <div class="meta">
   <span class="author">Tiago Luchini</span> &middot; <span class="date">{{ page.date | date: "%e"}} 
-    <a href="/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}">{{ page.date | date: "%B"}}</a> 
-    <a href="/{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y"}}</a></span>
+    <a href="/all.html#{{ page.date | date: "%Y%m" }}">{{ page.date | date: "%b"}}</a> 
+    <a href="/all.html#{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y"}}</a>
+  </span>
   <span class="tags">
-  {% for tag in page.categories %}
-  &middot; <a href="/tags/{{tag}}/">{{tag}}</a> 
-  {% endfor %}
+    {% for tag in page.topics %}
+    &middot; <a href="/category/{{tag}}/">{{tag}}</a> 
+    {% endfor %}
   </span>
   </div>
 </div>

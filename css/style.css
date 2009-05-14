@@ -118,6 +118,23 @@ h1, .post {
   color: #ccc;
 }
 
+.older {
+  border-top: 1px dotted #ddd;
+}
+
+.older a {
+  font-size: 1.6em;
+  font-weight: normal;
+  line-height: 1.6em;
+  color: #004491;
+  text-decoration: none;
+  border-bottom: 1px dotted #004491;
+}
+
+.older a:hover {
+  border-bottom: 1px solid;
+}
+
 pre {
   font: 0.9em Monaco, monospace;
   line-height: 1.4em;
