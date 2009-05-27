@@ -1,9 +1,0 @@
---- 
-wordpress_id: 348
-title: "A Quest\xC3\xA3o"
-wordpress_url: http://www.tiagoluchini.eu/2007/08/02/a-questao/
-layout: post
----
-<img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/08/ant.thumbnail.jpg" title="Formiga" alt="Formiga" align="left" hspace="10" vspace="5" />Com o tempo vamos nos acostumando com a ausência ou presenca de algumas coisas na Finlândia em relacão ao Brasil.
-
-Acabei de me dar conta de mais uma: <em>"existem formigas na Finlândia? Onde?"</em>

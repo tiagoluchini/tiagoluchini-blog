@@ -1,0 +1,63 @@
+--- 
+wordpress_id: 193
+title: "Relat\xC3\xB3rio Finl\xC3\xA2ndia - Parte III"
+wordpress_url: http://www.tiagoluchini.eu/2007/04/11/relatorio-finlandia-parte-iii/
+layout: post
+---
+**Língua**
+
+A língua falada aqui é uma estória totalmente à parte. O Finlandês vêm de uma família linguística bastante peculiar e da qual apenas 3 línguas atuais sobreviveram até os dias de hoje: o Finlandês, o Húngaro e o Estoniano. Vale lembrar que estes 3 ramos linguísticos se separaram da língua original há alguns milênios o que faz com que eles não consigam se comunicar entre si hoje em dia (não é algo como Português, Espanhol e Italiano que um é a cara do outro).
+
+Isto posto começam os problemas. Uma das características do Finlandês é a total ausência de gênero, ou seja, homem e mulher é tudo igual. Tudo a mesma coisa. A palavra utilizada tanto para “Ele” quanto para “Ela” é “Hän”. Talvez por isso que a sociedade Finlandesa seja tão igualitária entre homens e mulheres (futebol da criançada na rua é com meninas e meninos, a Finlândia foi o primeiro país do mundo a permitir o voto às mulheres e hoje a presidente - segundo mandato - é mulher).
+
+Outra característica única é o fato de não haverem preposições e artigos. Ou seja a frase “Fui para a escola” - quatro palavras para nós no Português – teria apenas duas palavras no Finlandês (o verbo “ir” conjugado na primeira pessoa do singular no passado e o substantivo “escola” com uma declinacão indicando o “para a”). Exatamente por isso que existem o absurdo número de 15 declinações diferentes, ou seja, cada palavrinha pode ter 15 formas diferentes de ser escrita (no mínimo). Os Finlandeses só perdem dos Húngaros que parecem ter 24 declinações.
+
+Uma coisa da língua que atrapalha muito o estrangeiro tentando aprender é o fato de algumas consoantes não serem utilizadas com frequência. Até aí eu havia ficado inicialmente feliz com a idéia: afinal, menos consoantes, menos coisa para aprender. Mas o que acaba acontecendo é que, para compensar a ausência de consoantes, eles possuem formas curtas e longas tanto para consoantes quanto para vogais. No fim das contas isso significa que exista a vogal “a” e a vogal “aa” (mesma coisa se aplica para as demais vogais e também para y/yy, ä/ää e ö/öö). Não satisfeitos, resolveram fazer o mesmo com as consoantes. Então existem t e tt, k e kk e assim por diante. Exemplo prático: “kuka” (quem) é diferente de “kukka” (flor)... agora tente falar isso diferente... ah... tem que ser diferente senão eles não entendem. Outro exemplo legal: tuuli, tuli e tulli. (vento, fogo e alfândega).... Tudo pronunciado diferente (mas só eles que entendem a diferença – para nós é tudo igual).
+
+Além disso, a língua é, como o alemão, um grande pacote de pecinhas de lego. Você vai ajuntando as palavras e criando coisas, conceitos e etc. Exemplo: para facilitar eles não chamam o telefone de “tele” – distância/remoto e “fone” – som/fala e sim de “falador” (puhelin). Ok então telefone é puhelin. Depois de um tempo vieram os celulares que nós chamamos de "celular" no Brasil porque eles funcionam em uma rede de células de antenas, em alguns lugares chamam de “móvel” ou “telefone móvel” mas aqui resolveram chamá-lo de “falador de viagem”. Ou seja.... nasceu o “matkapuhelin” (falador de viagem). Quando você tem um número de telefone celular você tem um “matkapuhelinnumero”. Ah... e se ajuntarmos as declinacões e você receber uma ligacão de algum número de celular vc fala que “matkapuhelinnumerosta”.
+
+Peguei um exemplo fácil para não assustar mas tenho que confessar que quando vejo coisas como “kehittymisedellytyksiä”, “yhteistyökumppaniksi” ou “ohjelmistokehityksen” eu fico meio preocupado.
+
+O inglês é bastante falado entretanto. Principalmente se considerarmos que a língua deles é bem diferente de qualquer outra coisa na face da terra. A TV (mesmo a aberta) passa muitos programas legendados e alguns, às vezes, até sem legenda. Isso significa que qualquer um que queira assistir “novela” por exemplo precisa ler a legenda ou aprender inglês. Além disso eles investem pesado em ensinar inglês para as crianças na escola. A TV inclusive é uma salada. Tem muita programação em Suéco, Alemão e Francês além dos programas locais em Finlandês e do batalhão de programas em Inglês.
+
+Eu fico sempre impressionado ao encontrar pessoas que eu nunca esperaria que falassem inglês se comunicando até que muito bem. Exemplo prático: fiquei me matando para fazer um pedido em Finlandês numa lanchonete até que a menina se irritou comigo e perguntou num inglês perfeito “Você gostaria do lanche tamanho normal ou grande? O pão de aveia está bom para você?” e tive que me render e comprar em inglês mesmo.
+
+Isso acontece com muita frequência. Outro dia, esperando Fabiana e Ian no calcadão do centro, veio uma tiazinha me pedir doação para alguma coisa. Quando ela chegou, comuniquei-a em Finlandês que eu não falava Finlandês na esperança que ela não insistisse comigo até porque eu, como sempre, não tinha um tostão no bolso. Para minha surpresa ela deslanchou a falar do projeto que ela estava arrecando dinheiro em um Inglês invejável. Sorte que convenci-a rápido de que, embora o projeto fosse nobre, eu realmente não tinha um tostão.
+
+O pessoal um pouco mais velho fala Inglês macarrônico assim como nós temos constume de falar aí no Brasil. Isso é pela faixa acima dos 45 anos ou até mais. Já a galera abaixo dos 30, 35 fala muito mas muito bem. Fico me questionando se os nossos filhos aí no Brasil não vão ser como a geracão atual aqui.
+
+Tem um percentual da população que fala Suéco (acredito ter lido que era cerca de 10%). São os chamados de Suomi-Svenska, ou os Suécos Finlandeses. Normalmente eles estão concentrados mais ao sul, oeste e na ilha de Åland (entre a Finlândia e a Suécia) – onde inclusive só falam Suéco. Mesmo havendo uma pequena minoria de Finlandeses nativos em Suéco, o Suéco também é considerado língua oficial aqui. Isso signigica que quando se liga para um número errado, por exemplo, aquela gravaçãozinha primeiro fala "você discou para um número errado" em Finlandês, depois em Suéco e por último em Inglês.
+
+A maior dificuldade para nós incultos nas duas línguas (Finlandês e Suéco) é que as placas tendem a ter os nomes das cidades e bairros em Finlandês e em Suéco (sim, isso é estranho mas as cidades tem nomes diferentes nas duas línguas). Parece que mais ao norte tem uns povos que permancerem praticamente congelados nos confins da Lapônia e também possuem um dialeto próprio mas acho que ninguém aguentou o frio de lá para ir checar com certeza.
+
+**Produtos**
+
+Temos aqui um ponto interessante mas antes de mais nada vale abrir um parênteses. Algumas marcas estão de parabéns. Fiquei impressionado de minha câmera fotográfica, meu celular e meu ipod funcionarem em temperaturas inferiores a -20 graus celsius. Detalhe interessante porém: a bateria acaba muito, mas muito mais rápido do que aí no Brasil. Algo como 30 a 40% mais rápido do que numa situação normal. Não sei se já estudaram sobre isso.
+
+Mau o meu corpo funciona direito nessas temperaturas mas os caras conseguiram fazer produtos eletrônicos que funcionam. Especial atencão porém aos fones de ouvido. Quando a temperatura está abaixo de -20 vale a pena esconder os fones dentro do casaco senão podem congelar e romper facilmente. Na contra partida o meu notebook não tem dado superaquecimento desde que chegamos.
+
+Se considerarmos a distância da Finlândia, o clima e as diferenças entre o Brasil, os produtos nas prateleiras dos mercados às vezes são até bem semelhantes aos nossos. Enquanto alguns produtos tivemos dificuldade de achar como barrinhas de cereal, guardanapos e vassouras outros sobram em diversidade e opcões principalmente batatas, pães e frios.
+
+Outros produtos chegam a soar até engraçado numa primeira abordagem para nós brasileiros como por exemplo um spray para manter os cabelos arrumados mesmo depois de tirar o chapéu ou o creme para dar um tom bronzeado para homens. Mas realmente, num lugar onde você está sempre cobrindo e descobrindo a cabeça e onde padrão de beleza masculina é uma pele escurinha, esses produtos fazem muito sucesso.
+
+Uma coisa que me chamou muito a atenção foram as embalagens dos produtos principalmente alimentícios. São todas muito bonitas e bem preparadas. Todas, sem excessão. Quer ver um exemplo? Imagine um saco de açúcar. Agora imagine um saco de farinha. Tente imaginar aquelas bandeijinhas de isopor com frios fatiados. Ok... esquece tudo isso. Aqui é totalmente diferente. Os pacotes de acúcar e farinha mais parecem sacos de comida de cachorro ou ração para passarinho. Às vezes até em caixas bonitas ou latas também. Os frios vêem em embalagens plásticas específicas e fáceis de abrir e fechar para manter o produto sempre fresco.
+
+Alguns costumes bem peculiares chamam também a atenção. Em especial o consumo de sorvete e café. Dois produtos que nós brasileiros também amamos mas os Finlandeses conseguem bater todos os records mundiais de consumo per capita desses dois produtos. O café não é muito ruim (mas também nunca fui fã de café então não sou um bom parâmetro). O que mais mata no café é ter que adoçá-lo com açúcar em bloquinhos. Sim, ao invés do pó de açúcar você decide quantos cubos de açúcar colocar. E eles demoram uns 3 cafés para diluir direito. Não é legal. Me sinto em algum desenho antigo do pica-pau de vez em quando.
+
+Já os sorvetes são interessantes. Enquanto eu procurava sorvete no inverno aí no Brasil sem achar aqui acha-se sempre. O ano inteiro. É interessante sair com um sorvete em ponto ideal de consumo de dentro de uma loja e perceber que depois de alguns passos ele já está mais duro porque a temperatura externa é mais baixa do que a da geladeira. Fora isso eu concordo com os Finlandeses no quesito de que um sorvetinho sempre vai bem.
+
+**Comida**
+
+Já que comecei a falar de comida vamos a esse tópico pontual e que nós brasileiros temos tanta dificuldade de se adaptar uma vez que estamos acostumados com o nosso "paraíso alimentar do universo". Se você é fanático por arroz-feijão, esquece... aqui não existe esse vício nacional e ainda não descobri o que rola de verdade.
+
+A variedade também não é das melhores. Nada de dezenas de tipos de folhas diferentes para salada. Geralmente um alface, mais alguma coisa verde, um tomate e algo doce e/ou com molho. Isso é salada. Ponto. Temperar a salada com sal também não é costume. A idéia normalmente é usar ou o bagulho que já vem com molho ou então um dos molhos disponíveis.
+
+Já para o prato quente (geralmente um só) existem coisas bem pontuais como algo feito com batata, salsicha ou sopa (ou os 3 misturados numa coisa só). Eventualmente algum tipo de carne ou strognoff com cury. Existem alguns buffets com mais opcões também mas geralmente é um universo bem menor do que estamos acosumados aí e com uma montagem também um pouco incomum. Para janta o costume é lanche nos infinitos tipos de pães e frios que eles têm por aqui. Comer fora é geralmente bem caro.
+
+As redes tradicionais de fast-food também estão aqui. Na emergência, é só procurar o MacDonalds ou a rede de hambúrgeres local chamada Hesburger (alguma semelhança com o Bob's?). Gostam também de uma pizza de vez em quando mas o método de comercialização é diferente do nosso. Eles entendem que uma pizza é para uma pessoa e ponto final. Acompanha salada também - como se alguém comendo uma pizza inteira fosse se preocupar em comer algo saudável ao mesmo tempo. Os recheios das pizzas também passam de longe na qualidade e quantidade que estamos acostumados.
+
+O fast-food número um na preferência dos Finlandeses entretanto é o Kebab. Maior prova da influência Turca nesse lugar, o kebab é alguma carne qualquer mais outras coisas enroladas numa massa de pão esquisita. Normalmente fica uma delícia. Antes de sair do Brasil, era moda chamar isso de "Wraps". Talvez por isso que eles chamem isso de "Rulla" aqui também.
+
+Um detalhe interessante. Percebi como eles são fãs supremos do sistema de buffet ou self-service como chamamos aí (acho eu - esse esquema de você, consumidor, ir lá se servir). Expliquei o nosso sistema preferido de comercialização de alimentos aí no Brasil, o rodízio, e o pessoal ficou apavorado. Aparentemente eles não gostam da idéia de ter alguém vindo até a mesa para atasaná-los. Muito estranho.
+
+Como conclusão desse tema: não dá para passar fome e, se seguir os costumes locais, a carga alimentar até que é bem adequada (não estimula o excesso como temos aí no Brasil aquele buffet maravilhoso ou aqueles pratos-feitos gigantescos). Por outro lado, os diversos pães, docinhos e afins podem levar a um excesso fora da rotina se não tomar cuidado.

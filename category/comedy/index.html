@@ -1,0 +1,9 @@
+---
+layout: default
+title: Tiago Luchini - Comedy
+---
+{% for page in site.topics.comedy limit:10 %}
+{% assign body = page.content %}
+{% include post-div.html %}
+{% endfor %}
+{% include all-link.html %}

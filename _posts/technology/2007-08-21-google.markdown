@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 347
+title: Google
+wordpress_url: http://www.tiagoluchini.eu/2007/08/21/google/
+layout: post
+---
+Muita gente fatalista e ligada em teorias conspiratórias gosta da idéia que o Google é o sinal da besta que vai dominar o mundo.
+
+Não sou tão exagerado mas parei estes dias para listar minhas senhas e percebi que o Google está bem arraigado na minha rotina. Em poucos minutos listei 18 casos de uso meus em ferramentas Google. Vejam só aqueles que uso diariamente:
+
+1. **Google Search Engine:** o servico de procura do Google - raramente uso outro. Algumas pessoas aqui na Finlândia dizem "pergunte isso ao all-knowing-Google" ("pergunte ao Google que sabe todas as coisas"). Dá para entender um pouco do sucesso deles.
+1. **Google Reader:** agregador de notícias. Num site personalizado por e para mim, é possível agregar todos os blogs e jornais que leio. Minha performance de leitura melhorou muito com o Reader.
+1. **iGoogle e seus widgets:** minha página inicial nunca mais foi a mesma depois do iGoogle. Conecto-a com o Google Reader, tenho a previsão do tempo, um relógio mundial, mapa do sol, mapa de ruas e minhas tirinhas preferidas. Além disso, milhares de outros servicos podem ser conectados. Um ganho de produtividade e informacões tremendo.
+1. **Google Notebook: **sabe aquele monte de papeizinhos que você vai anotando coisas e depois perde? Agora jogo tudo no Google Notebook e acesso de qualquer lugar do mundo à qualquer hora.
+1. **Google Applications: **a solucão corporativa do Google. Dá acesso à todos servicos (e mais alguns) do Google sob uma alcunha profissional e com seu próprio domínio. Formidável.
+1. **Google Talk:** conversas instantâneas já estão por aí há décadas. A grande sacada do Google Talk é a integracão pelo navegador sem a necessidade de instalar pesadíssimos clientes que não funcionam em qualquer lugar.
+1. **Orkut:** o site de redes sociais do Google. Não sou muito fã mas todo mundo está lá.
+1. **GMail:** a Google revolucionou o mundo web quando lancou o GMail como solucão de e-mail via navegadores. A interface é tão clean e evoluída que toda uma nova geracão de conceitos e técnicas surgiram a partir dele.
+1. **Google Calendar:** o servico de calendários da Google. Ainda tem algumas falhas graves como por exemplo ser confuso e perder alguns avisos além de ser muito fraco em integracão com dispositivos remotos. Mesmo assim, tenho aumentado meu uso do servico.
+1. **Google Docs: **os caríssimos Word e Excel da Microsoft há algum tempo que sumiram das minhas máquinas em troca por produtos livres. Com o Google Docs, vou um passo além, editando e mantendo meus documentos direto na web.
+1. **Picasa**: servico de organizacão e gerenciamento de fotos que ainda permite publicá-las gratuitamente na Internet para amigos e parentes apenas apertando um único botão.
+1. **Google Maps:** onde? para onde? de onde? Tudo isso é factível em qualquer navegador e de forma tão simples e fácil que dá até vontade de complicar.
+1. **YouTube & GoogleVideos: **quem nunca assistiu um vídeo no YouTube que atire a primeira pedra. Subir vídeos já não é para todos mas, não deixa de ser uma ótima alternativa quando existe a necessidade.
+
+Existem ainda outros 5 que poderia usar com frequência mas que, por um motivo ou outro, ou não uso ou tenho substitutos que prefiro:
+
+1. **Blogspot: **a ferramenta de Blogs do Google que é a mais utilizada no mundo todo. Por pura frescura e poder de flexibilidade, uso um concorrente deles: WordPress.
+1. **Google Analystics:** ferramenta que se propõe a analisar o perfil de acessos ao seu site. Não tive tempo de buscar isso ainda e na verdade estou relativamente satisfeito com os relatórios do WordPress.
+1. **Google Desktop: **programinha para integrar a procura do Google também nos seus documentos e arquivos. Fiz alguns testes e gostei bastante. Não uso por pura falta de necessidade (gosto de saber onde meus arquivos estão).
+1. **Google API:** a Google libera de tempos em tempos bibliotecas para desenvolvedores brincarem com as tecnologias deles. Muita coisa é bem interessante e muito bem feita. Não uso mais por falta de necessidade.
+1. **Google Earth:** famoso programa para simular um globo da terra e dar zoom até quase a janela das pessoas. Embora muito interessante e divertido para fins didáticos, sinceramente não consigo achar outros usos para ele por enquanto.
+
+Se a Google vai dominar o mundo eu não sei. Só espero que ela não perca meus e-mails, minhas anotacões, meus documentos e minha agenda ou terei um grande problema!

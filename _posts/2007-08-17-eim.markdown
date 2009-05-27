@@ -1,9 +1,0 @@
---- 
-wordpress_id: 385
-title: Eim?
-wordpress_url: http://www.tiagoluchini.eu/2007/08/17/eim/
-layout: post
----
-<a href="http://www.tiagoluchini.eu/wp-content/uploads/2007/08/xaveiro.jpg" target="_blank" title="xaveiro.jpg"><img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/08/xaveiro.thumbnail.jpg" title="xaveiro.jpg" alt="xaveiro.jpg" align="left" hspace="10" vspace="5" /></a>Eu tenho aprendido a dizer que Português é muito parecido com Finlandês. Taí a prova!
-
-O bom é que o rapaz até se propõe a ensinar!

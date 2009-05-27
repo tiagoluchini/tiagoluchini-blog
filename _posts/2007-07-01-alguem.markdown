@@ -1,7 +1,0 @@
---- 
-wordpress_id: 250
-title: "Algu\xC3\xA9m?"
-wordpress_url: http://www.tiagoluchini.eu/2007/07/01/alguem/
-layout: post
----
-<em>"Como água fresca para o homem sedento, tais são as boas-novas de terra remota." (Pv. 25:25)</em>

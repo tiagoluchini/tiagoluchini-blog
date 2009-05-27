@@ -1,8 +1,0 @@
---- 
-wordpress_id: 328
-title: Pouso
-wordpress_url: http://www.tiagoluchini.eu/2007/07/26/pouso/
-layout: post
----
-
-<p style="text-align: center"><img src="http://www.tiagoluchini.eu/wp-content/uploads/2007/07/angelicongonhas.gif" alt="angelicongonhas.gif" /></p>

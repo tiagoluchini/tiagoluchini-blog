@@ -154,4 +154,25 @@ pre {
   color: #004491;
   border-bottom: 1px solid #004491;
 }
-		
+
+.content .date {
+  font-size: 0.9em;
+  color: #999;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  margin-top: -0.5em;
+}
+
+.content h3 {
+ 	line-height: 0.7em; 
+}
+
+.post blockquote {
+  font-style: italic; 
+  background: #DDD;
+  border: 1px dotted #000999;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+}
