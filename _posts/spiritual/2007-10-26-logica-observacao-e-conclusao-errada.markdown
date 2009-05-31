@@ -28,4 +28,4 @@ O meu Deus salva as pessoas pela totalidade das suas vidas e Ele mesmo prometeu 
 
 > "Todo aquele que vier a mim, de modo nenhum, o lançarei fora." (João 6:37)
 
-"Eu Sou o Caminho, a verdade e a vida, ninguém vem ao Pai senão por mim." (João 14:6)</blockquote>
+> "Eu Sou o Caminho, a verdade e a vida, ninguém vem ao Pai senão por mim." (João 14:6)
