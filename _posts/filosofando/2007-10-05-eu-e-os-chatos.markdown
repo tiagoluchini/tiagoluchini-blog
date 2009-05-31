@@ -18,7 +18,7 @@ Mas ser chato tem um lado triste: a tendência de ficar isolado e ser frequentem
 
 Conforme vou achando mais chatos que não dão a mínima se suas idéias são absurdas e que não ligam para o que os outros vão achar, vou ficando mais motivado a persistir na minha chatice.
 
-Veja o caso de Jeff Atwood. Ele acaba de escrever um livro. Qual foi sua conclusão? Que é uma porcaria gastar tempo escrevendo um livro, que ele não gostou do tema, que não vai dar dinheiro e inclusive [recomenda que as pessoas NÃO comprem o seu livro[(http://www.codinghorror.com/blog/archives/000971.html) e ainda explica o porquê. Qual a melhor parte de escrever um livro? Ele também explica: quando o seu ego vai até o Amazon.com e procura pelo seu nome para achar um livro. Meses de intenso trabalho para isso.
+Veja o caso de Jeff Atwood. Ele acaba de escrever um livro. Qual foi sua conclusão? Que é uma porcaria gastar tempo escrevendo um livro, que ele não gostou do tema, que não vai dar dinheiro e inclusive [recomenda que as pessoas NÃO comprem o seu livro](http://www.codinghorror.com/blog/archives/000971.html) e ainda explica o porquê. Qual a melhor parte de escrever um livro? Ele também explica: quando o seu ego vai até o Amazon.com e procura pelo seu nome para achar um livro. Meses de intenso trabalho para isso.
 
 Um nítido chato de galhocha! Adorei sua experiência. Eu pensaria de forma muito semelhante e talvez a única diferenca é que eu não tenha me engajado tanto a escrever um livro para só chegar a essa conclusão depois. Parei várias vezes entre os capítulos 3 e 6.
 

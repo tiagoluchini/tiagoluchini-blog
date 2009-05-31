@@ -4,7 +4,7 @@ title: "Nossas Crian\xC3\xA7as e Jovens"
 wordpress_url: http://www.tiagoluchini.eu/2007/10/30/nossas-criancas-e-jovens/
 layout: post
 ---
-![War](/wp-content/uploads/2007/10/howcomeweplaywar.thumbnail.png)
+![War](/wp-content/uploads/2007/10/howcomeweplaywar.png)
 
 Somos responsáveis pelo tipo de postura que transferimos para os mais novos. A atitude das gerações mais novas depende única e exclusivamente daquilo que, como mais velhos, transferimos para eles.
 
