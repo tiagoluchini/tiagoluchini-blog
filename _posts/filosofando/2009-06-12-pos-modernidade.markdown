@@ -1,5 +1,5 @@
 ---
-title: Pós-Modernidade
+title: Pos-Modernidade
 layout: post
 ---
 ![Pós-Modernidade](/images/laerte-posmodernidade.jpg)
