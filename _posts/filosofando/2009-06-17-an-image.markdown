@@ -5,3 +5,4 @@ layout: post
 ... normally says more than a thousand words:
 
 ![Quoridor](/images/quoridor.jpg)
+
