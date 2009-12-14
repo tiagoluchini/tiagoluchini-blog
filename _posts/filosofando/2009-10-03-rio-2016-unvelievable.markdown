@@ -1,5 +1,5 @@
 ---
-title: Rio 2016: Unbelievable
+title: Rio 2016 - Unbelievable
 layout: post
 ---
 Rio will be the first South-American city - ever - to host the Summer Olympic games. The miracle will supposedly take place in 2016.
