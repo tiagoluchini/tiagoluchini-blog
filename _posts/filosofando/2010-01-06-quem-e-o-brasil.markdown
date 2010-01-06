@@ -1,0 +1,52 @@
+---
+title: Quem é o Brasil?
+layout: post
+---
+O amigo [Sérgio](http://slsnake.wordpress.com/) me convidou para a discussão da [imagem internacional do Brasil](http://slsnake.wordpress.com/2010/01/03/paradoxo-internacional-quem-e-o-brasil-ii/) que ele vem participando.
+
+Resolvo compartilhar aqui meus dois centavos pois já dei alguns pulos por aí. Lido com estrangeiros desde o comeco da minha carreira tendo trabalhado por quase 1 década com Britânicos em São Paulo, participado de alguns eventos nos EUA, América do Sul e Europa e também por ter trabalhado profundamente com Finlandeses e Chineses - dois lugares onde cheguei a estabelecer moradia.
+
+Pelo ritmo da discussão percebo que pelo menos três frentes parecem estar misturadas. Faz sentido: a linha que divide estas três abordagens pode ser tênue. Por um lado temos a imagem política brasileira no exterior - aquela visão que os aculturados políticos e ávidos leitores das opiniões midiáticas tem. Numa situacão intermediária temos a imagem do brasileiro em si - geralmente esteriotipada através dos olhos estrangeiros. E por último, temos a imagem corporativa brasileira - como as empresas e negócios brasileiros são vistos externamente.
+
+Imagem Política
+===============
+
+A imagem política do Brasil no exterior é, sem surpreender, aquela explorada pela mídia. Nada mais, nada menos. E, diga-se de passagem, isso é o que acontece com cada personalidade pública - ademais política. O fato de o Brasil ser uma economia forte e uma relativa potência militar na América do Sul vai sempre atrair os holofotes para o seu líder independentemente da pessoa que coloquemos lá. O indivíduo atual, Lula, com sua história de sofrimento e conexão ativa com o proletariado é claro que ganha manchetes e alguns coracões no exterior. Um almofadinha qualquer, como o antigo FHC, já precisava se esforcar mais para alcar uma imagem mais ativa e o fez com bastante maestria. Em outras palavras, qualquer um que se aventurar ao planalto será escrutinado pela mídia tanto local quanto estrangeira e, somado à sua atuacão, terá floreios ou maldicões atrelados a sua imagem internacional.
+
+Claro que as coisas podiam ser diferentes. Depende muito do indivíduo com a faixa de presidente sobre o peito. Tome a Venezuela por exemplo: um país sentado no petróleo com um líder excêntrico e, se não é espancionista por terra, pelo menos é espancionista na lábia. Sua fama internacional é outra - variando de total lunático a protetor dos fracos e oprimidos. Simplesmente escolha seu lado.
+
+Imagem Pessoal
+==============
+
+Enquanto nosso digno presidente tem a vantagem de ser analisado pela sua atuacão, o mesmo já não acontece no nívem da imagem individual do brasileiro - pelo menos não num primeiro momento. Isso porque, nesse nível, a forca da esteriotipacão é muito grande. Essa esteriotipacão varia muito de local para local mas existe em maior ou menor escala em todos os lugares do mundo.
+
+Isso não é de surpreender na verdade. Se eu pedir que você imagine um Mexicano, um Argentino e um judeu Norte-Americano na sua mente brasileira, tenho certeza que compartilharemos uma visão muito semelhante. Isto acontece porque eu e você crescemos e vivemos muitos anos no Brasil onde um esteriótipo muito específico sobre estes outros países e povos existe. Vale ressaltar que, embora corretos em alguns pontos, estes esteriótipos provavelmente não se aplicam à grande maioria das pessoas e que são totalmente incorrentos em algumas ideias. 
+
+Se eu fizer a mesma proposta para um Chinês, sua mente imaginará pessoas totalmente diferentes. Não me surpreenderia que um Chinês tivesse até dificuldade de imaginar um Argentino ou Mexicano por nem saber direito que países são estes - e aqui não falo sobre ignorância barata mas simplesmente porque são dois países completamente desconhedos dos nossos amigos orientais. Não precisamos ir longe para perceber que a ignorânica é mútua: qualquer brasileiro médio teria dificuldade de imaginar um Nepalês enquanto que isso passa desapercebido para um Chinês.
+
+Parênteses: para "imaginar um Nepalês" eu precisei procurar uma foto na Internet. Não só isso como tive que aprender - mesmo que a contra-gosto - a falar "Brasil" em Chinês porque muitos nativos, mesmo com ótimo domínio da língua inglesa, nunca haviam lido muito menos ouvido a palavra "Brasil" antes. Detalhe cruel é que em 2009 a China virou o maior parceiro comercial do Brasil. Fecha parênteses.
+
+Nos EUA e na maior parte da Europa - principalmente a parte Mediterrânea e a Inglaterra - o esteriótipo Brasileiro é negativo. Também não é difícil de entender o porquê. Milhares e milhares de brasileiros desembarcam todos os meses nesses países, muitos para ficar ilegalmente. Em Paris, o bairro onde se consegue comprar drogas e prostitutas é o brasileiro. Assim como imaginamos Mexicanos vestindo sombreros e, posso apostar que a maioria dos Mexicanos não veste sombreros, os Parisienses nos imaginam como comerciantes de drogas e sexo mesmo que a maioria de nós obviamente não estejam envolvidos nesses mercados.
+
+Se pularmos rapidamente para a Finlândia, onde vivo atualmente, o Finlandês médio, altamente aculturado e informado, sabe exatamente onde o Brasil fica, qual a capital (e não dizem "Rio de Janeiro" como a maioria por aí) e uma breve história dos últimos 3 ou 4 presidentes assim como  uma visão global da posícão econômica do país. Antes que você pense "ele não faz mais do que a obrigacão" lembremos que você provavelmente não saberia nem apontar a Finlândia no mapa (e se você sabe, já está melhor do que a Veja que certa vez errou feio). Mesmo com todas essas informacões, o Finlandês não estabelece um esteriótipo ao Brasileiro logo de pronto. Isso porque não conhece Brasileiros suficientes uma vez que a maioria nem passa perto das gélidas terras nórdicas.
+
+É claro que alguns componentes genéricos acabam fazendo parte do esteriótipo mais tradicional na maior parte do globo por questão do próprio marketing que exportamos. As palavras-chaves ivariavelmente passam por: futebol, carnaval e mulheres. Qual é o Brasileiro que nunca foi interpelado no exterior se é bom no futebol e se sabe dancar samba? Na China eu costumo responder com a pergunta: "Você luta kung fu?". Geralmente o questionador entende a ironia.
+
+Os esteriótipos podem atrapalhar ou facilitar. Um amigo meu saiu como "jogador profissional de futebol" numa entrevista à TV Americana. Se você quer investir em uma carreira ou negócios de entretenimento, o esteriótipo de festeiro do Brasileiro também ajuda bem. Na contrapartida existem as questões negativas. Os milhares de Brasileiros que são tratados mau injusticadamente nos EUA e em muitos lugares na Europa que o digam.
+
+Imagem nos Negócios
+===================
+
+Se o Brasileiro tem uma esteriotipacão no nível pessoal, quando o assunto são negócios há um enorme buraco negro. O Brasil ainda é infante no que diz respeito a consolidacão num mercado global. Neste quesito estamos há anos luz da China. Os negócios Chineses estão por toda a parte e o mundo de negócios está mais do que careca de lidar com nossos irmãos orientais. Já com o Brasil geralmente encontro muita surpresa das pessoas por aí - desde o indivíduo Norte-Americano que me perguntou com todas as letras se no Brasil "existiam empresas" até um membro da Câmera Americana de Comércio em Beijing que ficou durante horas me fazendo perguntas sobre as empresas e negócios no Brasil porque nunca tinha encontrado nenhum homem de negócios vindo deste exótico país tropical.
+
+Na prática temos ótimos exemplos de negócios internacionais que fazem muitos olhinhos brilhar mas ainda são muito poucos ou muito específicos. Nossas multinacionais comecaram a fazer alguma coisa de destaque internacional apenas nos últimos 20 anos e, infelizmente, se comparados às empresas Chinesas e Indianas somos simplesmente cobertos com suas enormes sombras que se espalham em muitas áreas.
+
+Este buraco negro, como tudo na vida - como o Yin & Yang, é tanto bom quanto ruim. Por um lado é um sinal claro que estamos atrasados - muito atrasados. Por outro lado temos um espaco enorme para crescer e, um certo nível de ignorância, sempre traz suas vantagens - afinal de contas uma parte da nossa vitória para as Olimpíadas de 2016 é pura ignorância internacional - outra parte, claro, é um voto de confianca. Esses dois componentes são muito bons para os negócios e nossas empresas Brasileiras estão abertas a essas possibilidades.
+
+É nos negócios que as linhas sobre a imagem política e a imagem pessoal convergem e as coisas podem ficar bastante confusas. É inevitável encarar a influência de uma boa imagem política do seu país de origem sobre seus negócios internacionais. É só a confianca em nosso Lula cair e os negócios podem piorar. Em alguns setores isso pode ser bastante fundamental. Tente vender algum trabalho que utilize muita matéria-prima e mão-de-obra em moeda local brasileira mas faturado em moeda estrangeira e perceba como seus clientes ficarão aflitos se você não tiver uma boa política de travamento cambial principalmente se o presidente do Brasil resolver anunciar alguma maluquice de pacote econômico (algo que éramos experts nas décadas de 70 e 80).
+
+A influência da imagem pessoal sobre os negócios também é inevitável. Quantos clientes não olham de atravessado quando sabem que a empresa é Brasileira simplesmente porque já imaginam um esteriótipo (provavelmente errado) de confusão, falta de profissionalismo, baixa qualidade, custos sem controle e falta de compromisso com a agenda. Aqui a única coisa que podemos fazer é prová-los errados com muito mas muito trabalho - estamos aí com a Copa e as Olimpíadas nas mãos para provarmos isso para o mundo todo.
+
+Claro que existem as situacões engracadas como a do cliente que recentemente abriu um sorriso de orelha-a-orelha quando eu disse que era Brasileiro. Ele tinha trabalhado durante dois anos no Rio de Janeiro e imediatamente exclamou: "Suas operacões aqui na China estão dando certo porque você é Paulista. Se fosse Carioca estaria uma confusão." Eu sorri e pensei que ali estava um estrangeiro preconceituoso e, vale indicar, com esteriótipos além dos nacionais - descendo até aos regionais.
+
+Talvez ele esteja certo - não no questio que um Carioca não teria condicões - mas no fato de que existem muitos esterióripos por aí e que, estes sim, afetam os negócios.
